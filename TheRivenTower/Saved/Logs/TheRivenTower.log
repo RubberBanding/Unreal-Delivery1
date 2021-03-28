@@ -2409,3 +2409,956 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-13.51.10:182][581]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapE9C8A6FB478946E2B5A08C82359EB8BC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
 [2021.03.28-13.51.10:212][581]AssetCheck: New page: Asset Save: TheRivenTower_Map
 [2021.03.28-13.51.10:212][581]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-13.52.56:123][ 81]Cmd: DUPLICATE
+[2021.03.28-13.52.56:123][ 81]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.53.03:071][826]Cmd: MODE SCALEGRID=0
+[2021.03.28-13.53.09:867][612]Cmd: MODE SCALEGRID=1
+[2021.03.28-13.53.26:205][401]Cmd: DUPLICATE
+[2021.03.28-13.53.26:205][401]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.53.45:715][588]Cmd: DUPLICATE
+[2021.03.28-13.53.45:715][588]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.53.54:538][562]Cmd: DUPLICATE
+[2021.03.28-13.53.54:538][562]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.54.11:410][426]Cmd: TRANSACTION UNDO
+[2021.03.28-13.54.11:410][426]LogEditorTransaction: Undo Move Actors
+[2021.03.28-13.54.14:604][745]Cmd: DUPLICATE
+[2021.03.28-13.54.14:604][745]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.54.28:074][254]Cmd: DUPLICATE
+[2021.03.28-13.54.28:074][254]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.54.45:190][157]Cmd: DUPLICATE
+[2021.03.28-13.54.45:190][157]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.54.52:695][982]Cmd: DUPLICATE
+[2021.03.28-13.54.52:695][982]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.54.57:688][526]Cmd: TRANSACTION UNDO
+[2021.03.28-13.54.57:688][526]LogEditorTransaction: Undo Rotate Actors
+[2021.03.28-13.55.25:485][602]Cmd: DELETE
+[2021.03.28-13.55.25:486][602]Cmd: ACTOR DELETE
+[2021.03.28-13.55.25:526][602]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-13.55.25:565][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.03.28-13.55.25:634][602]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2021.03.28-13.55.36:725][924]Cmd: TRANSACTION UNDO
+[2021.03.28-13.55.36:725][924]LogEditorTransaction: Undo Delete Actors
+[2021.03.28-13.55.51:153][517]Cmd: DUPLICATE
+[2021.03.28-13.55.51:153][517]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.56.04:816][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.28-13.56.04:958][ 48]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map3B8A9773460E8A759BAD51BA35B64BDB.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-13.56.04:993][ 48]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-13.56.04:993][ 48]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-13.56.09:194][538]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-13.56.09:204][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-13.56.09:204][538]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 5:56:09 PM)
+[2021.03.28-13.56.09:204][538]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-13.56.09:249][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044435s)
+[2021.03.28-13.56.09:250][538]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-13.56.09:250][538]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.03.28-13.56.09:250][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.045508s)
+[2021.03.28-13.56.09:256][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.28-13.56.09:258][538]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-13.56.09:258][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-13.56.09:258][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-13.56.09:259][538]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-13.56.09:259][538]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-13.56.09:261][538]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-13.56.09:261][538]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-13.56.09:269][538]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-13.56.09:269][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-13.56.09:269][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-13.56.09:269][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-13.56.09:270][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-13.56.09:270][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-13.56.09:270][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-13.56.09:280][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-13.56.09:280][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-13.56.09:280][538]LogInit: FAudioDevice initialized.
+[2021.03.28-13.56.09:280][538]LogAudio: Display: Audio Device (ID: 27) registered with world 'TheRivenTower_Map'.
+[2021.03.28-13.56.09:289][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-13.56.09:292][538]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-15.56.09
+[2021.03.28-13.56.09:292][538]LogWorld: Bringing up level for play took: 0.002856
+[2021.03.28-13.56.09:292][538]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.03.28-13.56.09:295][538]PIE: Server logged in
+[2021.03.28-13.56.09:296][538]PIE: Play in editor total start time 0.093 seconds.
+[2021.03.28-13.56.13:803][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-13.56.13:803][ 71]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-13.56.13:803][ 71]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-13.56.13:803][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-13.56.13:808][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-13.56.13:820][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-13.56.13:822][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-13.56.13:824][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-13.56.13:825][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-13.56.13:838][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.28-13.56.13:892][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.03.28-13.56.25:437][431]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-13.56.55:007][879]Cmd: DUPLICATE
+[2021.03.28-13.56.55:007][879]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.57.11:976][752]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-13.57.25:026][237]Cmd: MODE SCALEGRID=0
+[2021.03.28-13.58.10:332][310]Cmd: DUPLICATE
+[2021.03.28-13.58.10:332][310]Cmd: ACTOR DUPLICATE
+[2021.03.28-13.58.21:766][572]Cmd: TRANSACTION UNDO
+[2021.03.28-13.58.21:766][572]LogEditorTransaction: Undo Rotate Actors
+[2021.03.28-13.58.58:143][663]Cmd: TRANSACTION UNDO
+[2021.03.28-13.58.58:143][663]LogEditorTransaction: Undo Move Actors
+[2021.03.28-13.59.04:947][403]Cmd: TRANSACTION UNDO
+[2021.03.28-13.59.04:948][403]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-13.59.08:400][739]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-13.59.48:533][602]Cmd: DUPLICATE
+[2021.03.28-13.59.48:533][602]Cmd: ACTOR DUPLICATE
+[2021.03.28-14.00.14:515][405]Cmd: TRANSACTION UNDO
+[2021.03.28-14.00.14:515][405]LogEditorTransaction: Undo Move Actors
+[2021.03.28-14.00.18:490][808]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.00.18:500][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.00.18:500][808]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:00:18 PM)
+[2021.03.28-14.00.18:522][808]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.00.18:571][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049901s)
+[2021.03.28-14.00.18:572][808]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.00.18:573][808]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2021.03.28-14.00.18:573][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.051240s)
+[2021.03.28-14.00.18:618][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.28-14.00.18:623][808]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.00.18:623][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.00.18:623][808]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.00.18:623][808]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.00.18:625][808]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.00.18:626][808]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.00.18:633][808]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.00.18:634][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.00.18:634][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.00.18:634][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.00.18:634][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.00.18:634][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.00.18:634][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.00.18:644][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.00.18:644][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.00.18:644][808]LogInit: FAudioDevice initialized.
+[2021.03.28-14.00.18:644][808]LogAudio: Display: Audio Device (ID: 28) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.00.18:651][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.00.18:654][808]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.00.18
+[2021.03.28-14.00.18:654][808]LogWorld: Bringing up level for play took: 0.002686
+[2021.03.28-14.00.18:654][808]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.03.28-14.00.18:657][808]PIE: Server logged in
+[2021.03.28-14.00.18:658][808]PIE: Play in editor total start time 0.159 seconds.
+[2021.03.28-14.00.26:562][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.00.26:562][751]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.00.26:563][751]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.00.26:563][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.00.26:569][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.00.26:581][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.00.26:595][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.00.26:595][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.00.26:596][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.00.26:611][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.28-14.00.26:640][752]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.03.28-14.00.59:433][532]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.00.59:442][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.00.59:442][532]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:00:59 PM)
+[2021.03.28-14.00.59:442][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.00.59:490][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048598s)
+[2021.03.28-14.00.59:491][532]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.00.59:492][532]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.03.28-14.00.59:492][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.049941s)
+[2021.03.28-14.00.59:505][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.28-14.00.59:509][532]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.00.59:509][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.00.59:509][532]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.00.59:509][532]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.00.59:512][532]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.00.59:512][532]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.00.59:519][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.00.59:519][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.00.59:530][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.00.59:530][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.00.59:530][532]LogInit: FAudioDevice initialized.
+[2021.03.28-14.00.59:530][532]LogAudio: Display: Audio Device (ID: 29) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.00.59:538][532]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.00.59:541][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.00.59
+[2021.03.28-14.00.59:541][532]LogWorld: Bringing up level for play took: 0.002593
+[2021.03.28-14.00.59:541][532]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.03.28-14.00.59:544][532]PIE: Server logged in
+[2021.03.28-14.00.59:545][532]PIE: Play in editor total start time 0.104 seconds.
+[2021.03.28-14.01.08:082][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.01.08:082][549]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.01.08:082][549]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.01.08:083][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.01.08:088][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.01.08:100][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.01.08:112][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.01.08:112][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.01.08:113][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.01.08:125][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.01.08:128][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.28-14.01.08:157][550]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.03.28-14.01.11:370][918]Cmd: TRANSACTION UNDO
+[2021.03.28-14.01.11:370][918]LogEditorTransaction: Undo Move Actors
+[2021.03.28-14.01.16:020][407]Cmd: DUPLICATE
+[2021.03.28-14.01.16:020][407]Cmd: ACTOR DUPLICATE
+[2021.03.28-14.01.28:049][739]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.01.28:058][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.01.28:058][739]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:01:28 PM)
+[2021.03.28-14.01.28:091][739]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.01.28:141][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049618s)
+[2021.03.28-14.01.28:142][739]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.01.28:142][739]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.03.28-14.01.28:142][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.051045s)
+[2021.03.28-14.01.28:156][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.03.28-14.01.28:160][739]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.01.28:160][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.01.28:160][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.01.28:161][739]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.01.28:161][739]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.01.28:163][739]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.01.28:163][739]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.01.28:170][739]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.01.28:170][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.01.28:170][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.01.28:170][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.01.28:171][739]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.01.28:171][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.01.28:171][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.01.28:181][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.01.28:181][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.01.28:181][739]LogInit: FAudioDevice initialized.
+[2021.03.28-14.01.28:181][739]LogAudio: Display: Audio Device (ID: 30) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.01.28:190][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.01.28:193][739]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.01.28
+[2021.03.28-14.01.28:193][739]LogWorld: Bringing up level for play took: 0.002709
+[2021.03.28-14.01.28:193][739]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.03.28-14.01.28:196][739]PIE: Server logged in
+[2021.03.28-14.01.28:197][739]PIE: Play in editor total start time 0.139 seconds.
+[2021.03.28-14.01.50:342][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.01.50:342][391]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.01.50:343][391]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.01.50:343][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.01.50:353][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.01.50:366][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.01.50:381][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.01.50:382][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.01.50:382][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.01.50:394][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.01.50:397][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.28-14.01.50:427][392]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.03.28-14.01.52:044][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.28-14.01.52:197][579]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapFA2F2A804E0DA2AB22B69981391EE754.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.01.52:241][579]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.01.52:242][579]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.01.57:477][183]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-14.02.01:175][599]Cmd: TRANSACTION UNDO
+[2021.03.28-14.02.01:175][599]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-14.02.01:958][641]Cmd: MODE SCALEGRID=1
+[2021.03.28-14.02.04:255][798]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush179)
+[2021.03.28-14.02.38:935][699]Cmd: POLY SELECT ALL
+[2021.03.28-14.02.39:872][808]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.03.28-14.02.41:400][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.28-14.02.41:557][984]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapF2165BF044C27F65D5251981837DB9E3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.02.41:600][984]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.02.41:600][984]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.02.42:280][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.02.42:288][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.02.42:289][ 63]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:02:42 PM)
+[2021.03.28-14.02.42:331][ 63]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.02.42:391][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059429s)
+[2021.03.28-14.02.42:392][ 63]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.02.42:392][ 63]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2021.03.28-14.02.42:392][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.060923s)
+[2021.03.28-14.02.42:401][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.28-14.02.42:402][ 63]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.02.42:402][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.02.42:402][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.02.42:403][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.02.42:403][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.02.42:405][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.02.42:405][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.02.42:412][ 63]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.02.42:412][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.02.42:413][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.02.42:413][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.02.42:413][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.02.42:413][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.02.42:413][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.02.42:423][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.02.42:423][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.02.42:423][ 63]LogInit: FAudioDevice initialized.
+[2021.03.28-14.02.42:423][ 63]LogAudio: Display: Audio Device (ID: 31) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.02.42:431][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.02.42:434][ 63]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.02.42
+[2021.03.28-14.02.42:434][ 63]LogWorld: Bringing up level for play took: 0.002557
+[2021.03.28-14.02.42:434][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.03.28-14.02.42:437][ 63]PIE: Server logged in
+[2021.03.28-14.02.42:438][ 63]PIE: Play in editor total start time 0.149 seconds.
+[2021.03.28-14.03.03:572][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.03.03:572][592]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.03.03:572][592]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.03.03:573][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.03.03:584][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.03.03:586][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.03.03:589][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.03.03:590][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.03.03:591][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.03.03:605][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.28-14.03.03:644][594]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.03.28-14.03.11:813][573]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.03.11:822][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.03.11:822][573]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:03:11 PM)
+[2021.03.28-14.03.11:851][573]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.03.11:900][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049330s)
+[2021.03.28-14.03.11:901][573]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.03.11:901][573]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2021.03.28-14.03.11:901][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.050552s)
+[2021.03.28-14.03.11:905][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.28-14.03.11:907][573]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.03.11:907][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.03.11:907][573]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.03.11:907][573]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.03.11:909][573]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.03.11:909][573]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.03.11:917][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.03.11:917][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.03.11:928][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.03.11:928][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.03.11:928][573]LogInit: FAudioDevice initialized.
+[2021.03.28-14.03.11:928][573]LogAudio: Display: Audio Device (ID: 32) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.03.11:936][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.03.11:939][573]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.03.11
+[2021.03.28-14.03.11:939][573]LogWorld: Bringing up level for play took: 0.002769
+[2021.03.28-14.03.11:939][573]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.03.28-14.03.11:942][573]PIE: Server logged in
+[2021.03.28-14.03.11:943][573]PIE: Play in editor total start time 0.122 seconds.
+[2021.03.28-14.03.31:891][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.03.31:891][961]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.03.31:892][961]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.03.31:892][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.03.31:898][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.03.31:900][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.03.31:903][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.03.31:904][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.03.31:904][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.03.31:919][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.28-14.03.31:974][965]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.03.28-14.03.38:531][726]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-14.04.05:464][800]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.03.28-14.04.37:238][563]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.04.37:249][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.04.37:249][563]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:04:37 PM)
+[2021.03.28-14.04.37:271][563]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.04.37:321][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049887s)
+[2021.03.28-14.04.37:322][563]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.04.37:322][563]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2021.03.28-14.04.37:322][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.051273s)
+[2021.03.28-14.04.37:331][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.28-14.04.37:333][563]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.04.37:333][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.04.37:333][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.04.37:334][563]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.04.37:334][563]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.04.37:336][563]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.04.37:336][563]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.04.37:343][563]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.04.37:344][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.04.37:344][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.04.37:344][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.04.37:344][563]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.04.37:344][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.04.37:344][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.04.37:354][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.04.37:354][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.04.37:354][563]LogInit: FAudioDevice initialized.
+[2021.03.28-14.04.37:354][563]LogAudio: Display: Audio Device (ID: 33) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.04.37:360][563]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.04.37:363][563]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.04.37
+[2021.03.28-14.04.37:363][563]LogWorld: Bringing up level for play took: 0.002651
+[2021.03.28-14.04.37:363][563]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.03.28-14.04.37:366][563]PIE: Server logged in
+[2021.03.28-14.04.37:367][563]PIE: Play in editor total start time 0.118 seconds.
+[2021.03.28-14.06.20:591][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.06.20:591][634]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.06.20:591][634]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.06.20:592][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.06.20:599][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.06.20:612][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.06.20:623][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.06.20:624][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.06.20:625][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.06.20:640][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.28-14.06.20:662][635]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.03.28-14.06.28:590][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-14.06.32:295][  1]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.06.32:305][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.06.32:305][  1]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:06:32 PM)
+[2021.03.28-14.06.32:305][  1]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.06.32:360][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055735s)
+[2021.03.28-14.06.32:361][  1]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.06.32:361][  1]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2021.03.28-14.06.32:361][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.057218s)
+[2021.03.28-14.06.32:370][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.28-14.06.32:372][  1]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.06.32:372][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.06.32:372][  1]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.06.32:372][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.06.32:375][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.06.32:375][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.06.32:383][  1]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.06.32:384][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.06.32:395][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.06.32:395][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.06.32:395][  1]LogInit: FAudioDevice initialized.
+[2021.03.28-14.06.32:395][  1]LogAudio: Display: Audio Device (ID: 34) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.06.32:403][  1]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.06.32:406][  1]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.06.32
+[2021.03.28-14.06.32:406][  1]LogWorld: Bringing up level for play took: 0.002706
+[2021.03.28-14.06.32:406][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.03.28-14.06.32:409][  1]PIE: Server logged in
+[2021.03.28-14.06.32:410][  1]PIE: Play in editor total start time 0.107 seconds.
+[2021.03.28-14.07.18:521][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.07.18:521][525]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.07.18:522][525]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.07.18:522][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.07.18:531][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.07.18:545][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.07.18:558][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.07.18:558][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.07.18:559][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.07.18:570][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.07.18:573][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.28-14.07.18:605][526]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.03.28-14.07.25:788][365]Cmd: DUPLICATE
+[2021.03.28-14.07.25:788][365]Cmd: ACTOR DUPLICATE
+[2021.03.28-14.07.33:311][156]Cmd: TRANSACTION UNDO
+[2021.03.28-14.07.33:311][156]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-14.07.33:903][175]Cmd: MODE SCALEGRID=0
+[2021.03.28-14.07.35:193][326]Cmd: MODE SCALEGRID=1
+[2021.03.28-14.08.00:500][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-14.08.10:393][358]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.03.28-14.08.22:048][624]Cmd: TRANSACTION UNDO
+[2021.03.28-14.08.22:048][624]LogEditorTransaction: Undo Move Actors
+[2021.03.28-14.08.42:218][854]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.03.28-14.08.43:512][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.28-14.08.43:686][999]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map6371E5AF4FCE4CF49C52A2B9A7963033.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.08.43:726][999]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.08.43:726][999]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.08.44:675][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.08.44:684][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.08.44:684][111]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:08:44 PM)
+[2021.03.28-14.08.44:721][111]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.08.44:803][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082460s)
+[2021.03.28-14.08.44:804][111]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.08.44:804][111]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2021.03.28-14.08.44:804][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.084166s)
+[2021.03.28-14.08.44:813][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.28-14.08.44:817][111]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.08.44:817][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.08.44:817][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.08.44:818][111]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.08.44:818][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.08.44:820][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.08.44:820][111]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.08.44:829][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.08.44:829][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.08.44:840][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.08.44:840][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.08.44:840][111]LogInit: FAudioDevice initialized.
+[2021.03.28-14.08.44:840][111]LogAudio: Display: Audio Device (ID: 35) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.08.44:847][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.08.44:850][111]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.08.44
+[2021.03.28-14.08.44:850][111]LogWorld: Bringing up level for play took: 0.003093
+[2021.03.28-14.08.44:850][111]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.03.28-14.08.44:853][111]PIE: Server logged in
+[2021.03.28-14.08.44:854][111]PIE: Play in editor total start time 0.17 seconds.
+[2021.03.28-14.09.15:282][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.09.15:282][755]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.09.15:282][755]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.09.15:283][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.09.15:292][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.09.15:304][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.09.15:308][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.09.15:308][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.09.15:309][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.09.15:321][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.09.15:323][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.28-14.09.15:353][756]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.03.28-14.09.19:488][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-14.09.29:946][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.28-14.09.30:117][488]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map4966D480405CB128D396C99AF78B1B6F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.09.30:139][488]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.09.30:139][488]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.09.33:518][863]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.03.28-14.09.34:306][951]LogSlate: Took 0.007261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.28-14.09.42:742][936]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.28-14.12.31:804][322]Cmd: DELETE
+[2021.03.28-14.12.31:804][322]Cmd: ACTOR DELETE
+[2021.03.28-14.12.31:829][322]LogEditorActor: Deleted Actor: PointLight
+[2021.03.28-14.12.31:833][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.28-14.12.31:838][322]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.03.28-14.12.32:873][446]Cmd: TRANSACTION UNDO
+[2021.03.28-14.12.32:873][446]LogEditorTransaction: Undo Delete Actors
+[2021.03.28-14.12.44:355][754]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.12.44:365][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.12.44:365][754]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:12:44 PM)
+[2021.03.28-14.12.44:400][754]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.12.44:464][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063536s)
+[2021.03.28-14.12.44:464][754]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.12.44:465][754]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2021.03.28-14.12.44:465][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.064698s)
+[2021.03.28-14.12.44:469][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.28-14.12.44:474][754]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.12.44:474][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.12.44:474][754]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.12.44:474][754]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.12.44:477][754]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.12.44:477][754]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.12.44:485][754]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.12.44:485][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.12.44:485][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.12.44:485][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.12.44:486][754]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.12.44:486][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.12.44:486][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.12.44:496][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.12.44:496][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.12.44:496][754]LogInit: FAudioDevice initialized.
+[2021.03.28-14.12.44:496][754]LogAudio: Display: Audio Device (ID: 36) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.12.44:503][754]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.12.44:507][754]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.12.44
+[2021.03.28-14.12.44:507][754]LogWorld: Bringing up level for play took: 0.003485
+[2021.03.28-14.12.44:507][754]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.03.28-14.12.44:510][754]PIE: Server logged in
+[2021.03.28-14.12.44:512][754]PIE: Play in editor total start time 0.148 seconds.
+[2021.03.28-14.12.56:251][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.12.56:252][154]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.12.56:252][154]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.12.56:253][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.12.56:259][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.12.56:268][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.12.56:272][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.12.56:273][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.12.56:274][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.12.56:289][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.28-14.12.56:320][155]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.03.28-14.12.57:444][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.28-14.12.57:618][285]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map97952CDC4B66D26C235EF58DA389CC4A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.12.57:640][285]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.12.57:640][285]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.13.46:566][205]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.03.28-14.13.47:842][341]Cmd: TRANSACTION UNDO
+[2021.03.28-14.13.47:842][341]LogEditorTransaction: Undo Brush Subtract
+[2021.03.28-14.13.50:225][539]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-14.13.55:675][132]Cmd: TRANSACTION UNDO
+[2021.03.28-14.13.55:675][132]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-14.14.03:504][982]Cmd: MODE SCALEGRID=0
+[2021.03.28-14.14.18:539][713]Cmd: TRANSACTION UNDO
+[2021.03.28-14.14.18:539][713]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-14.14.29:163][912]Cmd: TRANSACTION UNDO
+[2021.03.28-14.14.29:163][912]LogEditorTransaction: Undo Scale Actors
+[2021.03.28-14.14.46:123][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-14.14.51:152][300]Cmd: MODE SCALEGRID=1
+[2021.03.28-14.14.59:353][207]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.14.59:362][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.14.59:362][207]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:14:59 PM)
+[2021.03.28-14.14.59:390][207]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.14.59:451][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060843s)
+[2021.03.28-14.14.59:452][207]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.14.59:453][207]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.03.28-14.14.59:453][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.062243s)
+[2021.03.28-14.14.59:468][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.28-14.14.59:470][207]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.14.59:470][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.14.59:470][207]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.14.59:470][207]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.14.59:473][207]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.14.59:473][207]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.14.59:480][207]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.14.59:481][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.14.59:481][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.14.59:481][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.14.59:481][207]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.14.59:481][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.14.59:481][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.14.59:492][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.14.59:492][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.14.59:492][207]LogInit: FAudioDevice initialized.
+[2021.03.28-14.14.59:492][207]LogAudio: Display: Audio Device (ID: 37) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.14.59:496][207]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.14.59:499][207]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.14.59
+[2021.03.28-14.14.59:500][207]LogWorld: Bringing up level for play took: 0.003139
+[2021.03.28-14.14.59:500][207]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.03.28-14.14.59:503][207]PIE: Server logged in
+[2021.03.28-14.14.59:504][207]PIE: Play in editor total start time 0.141 seconds.
+[2021.03.28-14.15.06:070][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.15.06:070][986]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.15.06:071][986]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.15.06:071][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.15.06:079][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.15.06:091][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.15.06:103][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.15.06:103][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.15.06:104][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.15.06:116][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.15.06:119][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.28-14.15.06:148][987]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.03.28-14.15.17:883][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.28-14.15.18:058][386]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map37E585044BC1F71F1348F0BC72579FC1.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.15.18:102][386]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.15.18:102][386]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.15.18:563][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.28-14.15.18:735][422]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map44A99C304A5B2EE50D574D9719C62A33.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.15.18:754][422]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.15.18:754][422]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.16.13:141][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.28-14.16.13:317][906]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map2C038F0341C434D681F83CB59F7E8AEB.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.16.13:338][906]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.16.13:338][906]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.16.37:865][ 64]LogSlate: Window 'Save Asset As' being destroyed
+[2021.03.28-14.16.57:906][224]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.03.28-14.16.57:922][224]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.03.28-14.16.59:076][363]LogContentBrowser: Attempting asset rename: NewMaterial -> red
+[2021.03.28-14.16.59:077][363]LogContentBrowser: End creating deferred item NewMaterial
+[2021.03.28-14.17.01:838][688]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/red.red
+[2021.03.28-14.17.01:841][688]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.03.28-14.17.01:842][688]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.17.02:117][688]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.17.02:122][688]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.17.02:154][688]LogSlate: Took 0.004382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.28-14.17.03:467][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.17.03:820][801]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.17.03:820][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.17.03:820][801]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.17.03:820][801]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.17.03:835][801]LogSlate: Took 0.007369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.28-14.17.04:775][888]LogSlate: Window 'red' being destroyed
+[2021.03.28-14.17.38:169][861]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.17.38:199][862]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.17.38:203][862]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.28-14.17.38:780][916]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.28-14.17.38:830][921]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.03.28-14.17.38:934][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.03.28-14.17.39:104][953]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.17.39:104][953]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.17.39:104][953]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.17.39:104][953]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.17.48:990][124]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.17.49:013][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.17.49:415][164]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.17.49:711][199]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.17.49:711][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.17.49:711][199]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.17.49:711][199]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.04:363][919]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.04:383][920]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.04:384][920]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.28-14.18.04:802][959]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.03.28-14.18.04:821][961]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.03.28-14.18.04:933][965]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.28-14.18.05:130][986]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.05:130][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.05:130][986]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.05:130][986]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.06:694][170]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.06:695][170]LogMaterial: Warning: [AssetLog] /Engine/Transient.red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.28-14.18.06:695][170]LogMaterial: Display: 	Function sRGBToLinear: Missing function input 'sRGB'
+[2021.03.28-14.18.06:695][170]LogMaterial: Display: 	Function sRGBToLinear: (Node If) If input A must be of type float.
+[2021.03.28-14.18.06:697][170]MaterialEditorStats: Error: [SM5] Function sRGBToLinear: Missing function input 'sRGB'
+[2021.03.28-14.18.06:697][170]MaterialEditorStats: Error: [SM5] Function sRGBToLinear: (Node If) If input A must be of type float.
+[2021.03.28-14.18.08:982][439]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.09:014][440]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.09:405][478]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.09:696][512]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.09:696][512]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.09:696][512]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.09:696][512]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.11:213][687]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.11:233][688]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.11:654][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.11:940][758]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.11:940][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.11:940][758]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.11:940][758]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.15:353][151]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.15:353][151]LogMaterial: Warning: [AssetLog] /Engine/Transient.red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.28-14.18.15:353][151]LogMaterial: Display: 	Function LinearTosRGB: Missing function input 'Linear'
+[2021.03.28-14.18.15:353][151]LogMaterial: Display: 	Function LinearTosRGB: (Node If) If input A must be of type float.
+[2021.03.28-14.18.15:355][151]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: Missing function input 'Linear'
+[2021.03.28-14.18.15:355][151]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: (Node If) If input A must be of type float.
+[2021.03.28-14.18.16:998][344]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.17:029][345]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.17:418][383]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.17:716][418]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.17:716][418]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.17:716][418]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.17:716][418]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.25:088][274]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.25:094][274]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.25:094][274]LogMaterial: Warning: [AssetLog] /Engine/Transient.red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.28-14.18.25:094][274]LogMaterial: Display: 	(Node Desaturation) Missing Desaturation input
+[2021.03.28-14.18.25:097][274]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2021.03.28-14.18.27:630][573]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.27:653][574]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.28:062][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.28:357][649]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.28:357][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.28:357][649]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.28:357][649]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.18.36:063][529]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.36:083][529]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.36:084][529]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.36:113][530]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.28-14.18.36:481][560]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.28-14.18.36:535][565]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.03.28-14.18.36:626][576]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.03.28-14.18.36:702][582]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.03.28-14.18.36:702][582]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.03.28-14.18.36:702][582]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.03.28-14.18.36:718][583]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.03.28-14.18.36:733][585]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.28-14.18.37:019][606]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.28-14.18.37:041][608]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.03.28-14.18.37:041][608]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.03.28-14.18.37:373][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.28-14.18.45:005][548]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.28-14.18.45:028][549]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.03.28-14.18.45:449][591]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.03.28-14.18.45:732][623]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.03.28-14.18.45:732][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.03.28-14.18.45:732][623]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-14.18.45:732][623]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-14.19.09:192][ 52]LogSlate: Window 'Message' being destroyed
+[2021.03.28-14.19.09:195][ 52]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/red.red
+(Selecting 'No' will cause all changes to be lost!)
+[2021.03.28-14.19.09:216][ 52]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.19.09:216][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.19.10:562][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.03.28-14.19.11:908][178]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.28-14.19.11:992][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.28-14.19.42:032][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-14.19.44:071][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.28-14.19.44:242][560]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map98CD42B14EA3379837FA089CF6A35B19.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.19.44:260][560]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.19.44:260][560]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-14.19.59:292][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-14.20.00:399][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-14.20.07:565][295]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.03.28-14.20.29:850][926]Cmd: DUPLICATE
+[2021.03.28-14.20.29:850][926]Cmd: ACTOR DUPLICATE
+[2021.03.28-14.20.37:607][821]Cmd: DUPLICATE
+[2021.03.28-14.20.37:607][821]Cmd: ACTOR DUPLICATE
+[2021.03.28-14.20.43:432][488]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-14.20.43:443][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-14.20.43:443][488]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 6:20:43 PM)
+[2021.03.28-14.20.43:443][488]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.20.43:503][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060595s)
+[2021.03.28-14.20.43:504][488]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-14.20.43:505][488]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2021.03.28-14.20.43:505][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.061835s)
+[2021.03.28-14.20.43:509][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.28-14.20.43:513][488]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-14.20.43:513][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-14.20.43:513][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-14.20.43:514][488]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-14.20.43:514][488]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-14.20.43:516][488]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-14.20.43:516][488]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-14.20.43:523][488]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-14.20.43:524][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-14.20.43:524][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-14.20.43:524][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-14.20.43:524][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-14.20.43:524][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-14.20.43:524][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-14.20.43:535][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-14.20.43:535][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-14.20.43:535][488]LogInit: FAudioDevice initialized.
+[2021.03.28-14.20.43:535][488]LogAudio: Display: Audio Device (ID: 38) registered with world 'TheRivenTower_Map'.
+[2021.03.28-14.20.43:545][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-14.20.43:548][488]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-16.20.43
+[2021.03.28-14.20.43:549][488]LogWorld: Bringing up level for play took: 0.003531
+[2021.03.28-14.20.43:549][488]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.03.28-14.20.43:552][488]PIE: Server logged in
+[2021.03.28-14.20.43:553][488]PIE: Play in editor total start time 0.111 seconds.
+[2021.03.28-14.21.09:450][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.21.09:450][586]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-14.21.09:450][586]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-14.21.09:451][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.21.09:456][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-14.21.09:465][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-14.21.09:469][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-14.21.09:469][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.21.09:470][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-14.21.09:482][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-14.21.09:484][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.28-14.21.09:513][587]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.03.28-14.21.10:552][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.28-14.21.10:723][699]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapF7BCDAA3425B5B090212E388449F6886.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.28-14.21.10:741][699]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.28-14.21.10:741][699]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
