@@ -1,10 +1,10 @@
-﻿Log file open, 03/28/21 17:55:57
+﻿Log file open, 03/28/21 18:52:34
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: TheRivenTower
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.203571
+LogStats: Stats thread started at 0.205889
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
@@ -12,117 +12,117 @@ LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin TemplateSequence
-LogPluginManager: Mounting plugin AndroidMedia
-LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin WebMMedia
-LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
-LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
-LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
-LogPluginManager: Mounting plugin SignificanceManager
-LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
-LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
-LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
@@ -207,890 +207,600 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:138][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:148][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.03.28-15.55.58:149][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.03.28-15.55.58:150][  0]LogInit: Selected Device Profile: [Windows]
-[2021.03.28-15.55.58:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.03.28-15.55.58:150][  0]LogHAL: Display: Platform has ~ 16 GB [17129693184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.03.28-15.55.58:150][  0]LogInit: Going up to parent DeviceProfile []
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.03.28-15.55.58:150][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.03.28-15.55.58:151][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
-[2021.03.28-15.55.58:151][  0]LogInit: Computer: DESKTOP-GEB4VI6
-[2021.03.28-15.55.58:151][  0]LogInit: User: nadig
-[2021.03.28-15.55.58:151][  0]LogInit: CPU Page size=4096, Cores=6
-[2021.03.28-15.55.58:151][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.03.28-15.55.58:151][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2021.03.28-15.55.58:151][  0]LogMemory: Platform Memory Stats for Windows
-[2021.03.28-15.55.58:151][  0]LogMemory: Process Physical Memory: 137.91 MB used, 137.92 MB peak
-[2021.03.28-15.55.58:151][  0]LogMemory: Process Virtual Memory: 110.19 MB used, 110.19 MB peak
-[2021.03.28-15.55.58:151][  0]LogMemory: Physical Memory: 7104.43 MB used,  9231.72 MB free, 16336.15 MB total
-[2021.03.28-15.55.58:151][  0]LogMemory: Virtual Memory: 134205968.00 MB used,  11759.92 MB free, 134217728.00 MB total
-[2021.03.28-15.55.58:156][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.03.28-15.55.58:173][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.03.28-15.55.58:173][  0]LogInit: Overriding language with editor language configuration option (en).
-[2021.03.28-15.55.58:173][  0]LogInit: Overriding language with editor locale configuration option (en).
-[2021.03.28-15.55.58:343][  0]LogInit: Setting process to per monitor DPI aware
-[2021.03.28-15.55.58:355][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.03.28-15.55.58:382][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.03.28-15.55.58:382][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.03.28-15.55.58:502][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.03.28-15.55.58:502][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.03.28-15.55.58:502][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.03.28-15.55.58:502][  0]LogD3D11RHI: D3D11 adapters:
-[2021.03.28-15.55.58:586][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
-[2021.03.28-15.55.58:586][  0]LogD3D11RHI:       5968/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.03.28-15.55.58:588][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.03.28-15.55.58:588][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.03.28-15.55.58:588][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.03.28-15.55.58:593][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.03.28-15.55.58:593][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
-[2021.03.28-15.55.58:593][  0]LogWindows: EnumDisplayDevices:
-[2021.03.28-15.55.58:593][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
-[2021.03.28-15.55.58:594][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
-[2021.03.28-15.55.58:594][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2021.03.28-15.55.58:594][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2021.03.28-15.55.58:594][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2021.03.28-15.55.58:594][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
-[2021.03.28-15.55.58:594][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
-[2021.03.28-15.55.58:594][  0]LogD3D11RHI:      Driver Date: 9-30-2020
-[2021.03.28-15.55.58:594][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
-[2021.03.28-15.55.58:646][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.03.28-15.55.58:646][  0]LogD3D11RHI: Async texture creation enabled
-[2021.03.28-15.55.58:646][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.03.28-15.55.58:663][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.03.28-15.55.58:664][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.03.28-15.55.58:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.03.28-15.55.58:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.03.28-15.55.58:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.03.28-15.55.58:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.03.28-15.55.58:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.03.28-15.55.58:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.03.28-15.55.58:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.03.28-15.55.58:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.03.28-15.55.58:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.03.28-15.55.58:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.03.28-15.55.58:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.03.28-15.55.59:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.03.28-15.55.59:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.03.28-15.55.59:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.03.28-15.55.59:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.03.28-15.55.59:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.03.28-15.55.59:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.03.28-15.55.59:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.03.28-15.55.59:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.03.28-15.55.59:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.03.28-15.55.59:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.03.28-15.55.59:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.03.28-15.55.59:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.03.28-15.55.59:078][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.03.28-15.55.59:084][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.03.28-15.55.59:132][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.03.28-15.55.59:132][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Intermediate/Shaders/WorkingDirectory/17152/).
-[2021.03.28-15.55.59:133][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nadig/AppData/Local/Temp/UnrealShaderWorkingDir/2DF4E931462084BD3A8897B7234C6C0A/'.
-[2021.03.28-15.55.59:133][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.03.28-15.55.59:133][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.03.28-15.55.59:781][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.03.28-15.55.59:821][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.03.28-15.55.59:833][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.03.28-15.55.59:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.03.28-15.55.59:833][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.03.28-15.55.59:844][  0]LogDerivedDataCache: Speed tests for C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2021.03.28-15.55.59:844][  0]LogDerivedDataCache: Display: Performance to C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=356.20MBs, RandomWriteSpeed=130.65MBs. Assigned SpeedClass 'Local'
-[2021.03.28-15.55.59:844][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.03.28-15.55.59:844][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.03.28-15.55.59:844][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.03.28-15.55.59:887][  0]LogSlate: Using FreeType 2.10.0
-[2021.03.28-15.55.59:887][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.03.28-15.55.59:906][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
-[2021.03.28-15.56.00:111][  0]LogInit: Selected Device Profile: [Windows]
-[2021.03.28-15.56.00:111][  0]LogInit: Active device profile: [000001FCC4AB5E00][000001FCC5795140 49] Windows
-[2021.03.28-15.56.00:111][  0]LogInit: Profiles: [000001FCC4AB5E00][000001FCC5795140 49] Windows, [000001FCC4A22500][000001FCC579D2C0 49] WindowsNoEditor, [000001FCC4AB7900][000001FCC57A5440 49] WindowsServer, [000001FCC4A22100][000001FCC5799580 49] WindowsClient, [000001FCC4AB6D00][000001FCC57A96C0 49] IOS, [000001FCC4A20800][000001FCC57B1800 49] iPadAir, [000001FCC4AB7B00][000001FCC57B9940 49] iPadAir2, [000001FCC5C6F200][000001FCC57C5C00 49] IPadPro, [000001FCC5C6F300][000001FCC57C1C40 49] iPadAir3, [000001FCC4AB4200][000001FCC57C8100 49] iPadAir4, [000001FCC5C6F500][000001FCC57CC280 49] iPadMini2, [000001FCC4AB4E00][000001FCC57D0400 49] iPadMini3, [000001FCC5C6D400][000001FCC57D4580 49] iPadMini4, [000001FCC4AB5000][000001FCC57D8700 49] iPadMini5, [000001FCC5C92B00][000001FCC57E09C0 49] iPhone6, [000001FCC5C92C00][000001FCC57DCA00 49] iPodTouch6, [000001FCC5C6FC00][000001FCC5800CC0 49] iPhone7, [000001FCC5C6FB00][000001FCC57FCD00 49] iPodTouch7, [000001FCC5C90E00][000001FCC5804E80 49] iPhone5S, [000001FCC5C6FD00][000001FCC5809000 49] iPhone6Plus, [000001FCC5C91200][000001FCC580D180 49] iPhone6S, [000001FCC5C6E800][000001FCC5831300 49] iPhone6SPlus, [000001FCC5C92D00][000001FCC5835480 49] iPhone7Plus, [000001FCC5C6F800][000001FCC5839600 49] iPhoneSE, [000001FCC5C93200][000001FCC57BD740 49] iPhone8, [000001FCC5C6D600][000001FCC583D880 49] iPhone8Plus, [000001FCC5C91F00][000001FCC58419C0 49] iPhoneX, [000001FCC5C6DD00][000001FCC5849B40 49] iPhoneXS, [000001FCC5C90300][000001FCC584DCC0 49] iPhoneXSMax, [000001FCC5C6C400][000001FCC5850180 49] iPhoneXR, [000001FCC5C92500][000001FCC5880300 49] iPhone11, [000001FCC5C6E500][000001FCC5884480 49] iPhone11Pro, [000001FCC5C90600][000001FCC5888600 49] iPhone11ProMax, [000001FCC5C6CE00][000001FCC588C780 49] iPhoneSE2, [000001FCC5C91400][000001FCC5890900 49] iPhone12Mini, [000001FCC5C6DE00][000001FCC5894A80 49] iPhone12, [000001FCC5C93400][000001FCC5898C00 49] iPhone12Pro, [000001FCC5C6C200][000001FCC589CD80 49] iPhone12ProMax, [000001FCC5C91B00][000001FCC58A0F00 49] iPadPro105, [000001FCC5C93600][000001FCC58A5080 49] iPadPro129, [000001FCC4A21D00][000001FCC58A9200 49] iPadPro97, [000001FCC5C90C00][000001FCC58AD380 49] iPadPro2_129, [000001FCC4A22B00][000001FCC58B1500 49] iPad5, [000001FCC5C90500][000001FCC58B5680 49] iPad6, [000001FCC4A20B00][000001FCC58457C0 49] iPad7, [000001FCC5C93800][000001FCC58B9900 49] iPad8, [000001FCC4A21200][000001FCC58BDA40 49] iPadPro11, [000001FCC5C91A00][000001FCC58C1B80 49] iPadPro2_11, [000001FCC4A20700][000001FCC58C9D00 49] iPadPro3_129, [000001FCC4A22400][000001FCC58CC1C0 49] iPadPro4_129, [000001FCC5C6F700][000001FCC68E0340 49] AppleTV, [000001FCC4A20300][000001FCC68E44C0 49] AppleTV4K, [000001FCC5C6F400][000001FCC68E8640 49] TVOS, [000001FCC4A21F00][000001FCC68EC7C0 49] Mac, [000001FCC5C6C100][000001FCC68F0940 49] MacClient, [000001FCC5C93500][000001FCC68F4AC0 49] MacNoEditor, [000001FCC5C6FE00][000001FCC68F8C40 49] MacServer, [000001FCC5C91D00][000001FCC68FCDC0 49] Linux, [000001FCC5C6D000][000001FCC6900F40 49] LinuxNoEditor, [000001FCC5C90800][000001FCC69050C0 49] LinuxAArch64NoEditor, [000001FCC5C6E100][000001FCC6909240 49] LinuxClient, [000001FCC5C92E00][000001FCC690D3C0 49] LinuxAArch64Client, [000001FCC5C6CC00][000001FCC6911540 49] LinuxServer, [000001FCC5C93900][000001FCC69156C0 49] LinuxAArch64Server, [000001FCC5C6C300][000001FCC58C5800 49] Android, [000001FCC5C92F00][000001FCC6919940 49] Android_Low, [000001FCC5C6E600][000001FCC691DA80 49] Android_Mid, [000001FCC5C93700][000001FCC6921BC0 49] Android_High, [000001FCC5C6E000][000001FCC6929D40 49] Android_Default, [000001FCC5C93300][000001FCC692C200 49] Android_Adreno4xx, [000001FCC5C6CF00][000001FCC6930380 49] Android_Adreno5xx_Low, [000001FCC5C93E00][000001FCC6934500 49] Android_Adreno5xx, [000001FCC5C6D500][000001FCC6938680 49] Android_Adreno6xx, [000001FCC5C92900][000001FCC693C800 49] Android_Adreno6xx_Vulkan, [000001FCC5C6EF00][000001FCC6940980 49] Android_Mali_T6xx, [000001FCC5C93000][000001FCC6944B00 49] Android_Mali_T7xx, [000001FCC5C6E300][000001FCC6948C80 49] Android_Mali_T8xx, [000001FCC5C90B00][000001FCC694CE00 49] Android_Mali_G71, [000001FCC5C6CD00][000001FCC6950F80 49] Android_Mali_G72, [000001FCC5C90D00][000001FCC6955100 49] Android_Mali_G72_Vulkan, [000001FCC5C6E700][000001FCC6959280 49] Android_Mali_G76, [000001FCC5C91800][000001FCC695D400 49] Android_Mali_G76_Vulkan, [000001FCC5C6C700][000001FCC6961580 49] Android_Mali_G77, [000001FCC5C92400][000001FCC6965700 49] Android_Mali_G77_Vulkan, [000001FCC5C6E400][000001FCC6969880 49] Android_Vulkan_SM5, [000001FCC5C91600][000001FCC69259C0 49] Android_PowerVR_G6xxx, [000001FCC5C6CB00][000001FCC696DB00 49] Android_PowerVR_GT7xxx, [000001FCC5C92A00][000001FCC6971C40 49] Android_PowerVR_GE8xxx, [000001FCC5C6C900][000001FCC6978100 49] Android_PowerVR_GM9xxx, [000001FCC5C90100][000001FCC697C280 49] Android_PowerVR_GM9xxx_Vulkan, [000001FCC5C6F900][000001FCC6980400 49] Android_TegraK1, [000001FCC5C91000][000001FCC6984580 49] Android_Unknown_Vulkan, [000001FCC4A23D00][000001FCC6988700 49] Lumin, [000001FCC4AB7700][000001FCC698C880 49] Lumin_Desktop, [000001FCC4A21C00][000001FCC6990A00 49] HoloLens, 
-[2021.03.28-15.56.00:199][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.03.28-15.56.00:199][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.03.28-15.56.00:199][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.03.28-15.56.00:199][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.03.28-15.56.00:199][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.03.28-15.56.00:217][  0]LogNetVersion: TheRivenTower 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 930446916)
-[2021.03.28-15.56.00:563][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.03.28-15.56.00:618][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.054902 seconds
-[2021.03.28-15.56.00:624][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
-[2021.03.28-15.56.00:624][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
-[2021.03.28-15.56.00:624][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.03.28-15.56.00:776][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.03.28-15.56.00:779][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.03.28-15.56.00:999][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.00:999][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.01:001][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.01:003][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.01:010][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.01:015][  0]LogUProjectInfo: Found projects:
-[2021.03.28-15.56.01:132][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.03.28-15.56.01:146][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.03.28-15.56.01:146][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.03.28-15.56.01:245][  0]LogOcInput: OculusInput pre-init called
-[2021.03.28-15.56.01:254][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.03.28-15.56.01:254][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.03.28-15.56.01:261][  0]LogCollectionManager: Loaded 0 collections in 0.002069 seconds
-[2021.03.28-15.56.01:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Collections/' took 0.00s
-[2021.03.28-15.56.01:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Developers/nadig/Collections/' took 0.00s
-[2021.03.28-15.56.01:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Collections/' took 0.00s
-[2021.03.28-15.56.01:312][  0]LogEngine: Initializing Engine...
-[2021.03.28-15.56.01:312][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.03.28-15.56.01:312][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.03.28-15.56.01:313][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.03.28-15.56.01:399][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.03.28-15.56.01:406][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.03.28-15.56.01:415][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.03.28-15.56.01:418][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.03.28-15.56.01:418][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.03.28-15.56.01:418][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.03.28-15.56.01:418][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.03.28-15.56.01:419][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.03.28-15.56.01:419][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.03.28-15.56.01:428][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.03.28-15.56.01:428][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.03.28-15.56.01:451][  0]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
-[2021.03.28-15.56.01:454][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.03.28-15.56.01:455][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.03.28-15.56.01:455][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.03.28-15.56.01:456][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.03.28-15.56.01:456][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.03.28-15.56.01:456][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.03.28-15.56.01:457][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.03.28-15.56.01:457][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.03.28-15.56.01:457][  0]LogInit: FAudioDevice initialized.
-[2021.03.28-15.56.01:457][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.03.28-15.56.01:457][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.03.28-15.56.01:508][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.03.28-15.56.01:512][  0]LogInit: Texture streaming: Enabled
-[2021.03.28-15.56.01:522][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
-[2021.03.28-15.56.01:525][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.03.28-15.56.01:525][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.03.28-15.56.01:526][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.03.28-15.56.01:564][  0]LogInit: Transaction tracking system initialized
-[2021.03.28-15.56.01:582][  0]BlueprintLog: New page: Editor Load
-[2021.03.28-15.56.01:642][  0]LocalizationService: Localization service is disabled
-[2021.03.28-15.56.01:664][  0]TimingProfiler: Initialize
-[2021.03.28-15.56.01:664][  0]TimingProfiler: OnSessionChanged
-[2021.03.28-15.56.01:664][  0]LoadingProfiler: Initialize
-[2021.03.28-15.56.01:664][  0]LoadingProfiler: OnSessionChanged
-[2021.03.28-15.56.01:664][  0]NetworkingProfiler: Initialize
-[2021.03.28-15.56.01:664][  0]NetworkingProfiler: OnSessionChanged
-[2021.03.28-15.56.01:664][  0]MemoryProfiler: Initialize
-[2021.03.28-15.56.01:664][  0]MemoryProfiler: OnSessionChanged
-[2021.03.28-15.56.01:787][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.03.28-15.56.01:787][  0]LogCook: Display: Mobile HDR setting 1
-[2021.03.28-15.56.01:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/' took 0.00s
-[2021.03.28-15.56.02:042][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.03.28-15.56.02:045][  0]SourceControl: Source control is disabled
-[2021.03.28-15.56.02:045][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.740
-[2021.03.28-15.56.02:045][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-15.56.02:045][  0]LightingResults: New page: Lighting Build
-[2021.03.28-15.56.02:046][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-15.56.02:046][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.56.02:046][  0]MapCheck: New page: Map Check
-[2021.03.28-15.56.02:046][  0]LightingResults: New page: Lighting Build
-[2021.03.28-15.56.02:053][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
-[2021.03.28-15.56.02:207][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
-[2021.03.28-15.56.02:272][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
-[2021.03.28-15.56.02:273][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2021.03.28-15.56.02:278][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-15.56.02:284][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
-[2021.03.28-15.56.02:284][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-15.56.02:285][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
-[2021.03.28-15.56.02:285][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.240
-[2021.03.28-15.56.02:286][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.981
-[2021.03.28-15.56.02:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.56.02:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.56.02:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.56.02:431][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.56.02:444][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3601 classes and 859 folders.
-[2021.03.28-15.56.02:446][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.03.28-15.56.02:447][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.03.28-15.56.02:447][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.03.28-15.56.02:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.03.28-15.56.02:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2021.03.28-15.56.02:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.03.28-15.56.02:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.03.28-15.56.02:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.03.28-15.56.02:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.03.28-15.56.02:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.03.28-15.56.02:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.03.28-15.56.02:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.03.28-15.56.02:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.03.28-15.56.02:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.03.28-15.56.02:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.03.28-15.56.02:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.03.28-15.56.02:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.03.28-15.56.02:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.03.28-15.56.02:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.03.28-15.56.02:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.03.28-15.56.02:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.03.28-15.56.02:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.03.28-15.56.02:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.03.28-15.56.02:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.03.28-15.56.02:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2021.03.28-15.56.02:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.03.28-15.56.02:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.03.28-15.56.02:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.03.28-15.56.02:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.03.28-15.56.02:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2021.03.28-15.56.02:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.03.28-15.56.02:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
-[2021.03.28-15.56.02:529][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.03.28-15.56.02:530][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.03.28-15.56.02:534][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.03.28-15.56.02:627][  0]LogRenderer: Reallocating scene render targets to support 1200x572 Format 10 NumSamples 1 (Frame:1).
-[2021.03.28-15.56.02:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.03.28-15.56.02:704][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
-[2021.03.28-15.56.02:704][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
-[2021.03.28-15.56.02:704][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
-[2021.03.28-15.56.02:704][  0]LogLoad: (Engine Initialization) Total time: 5.40 seconds
-[2021.03.28-15.56.02:704][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.03.28-15.56.02:704][  0]LogInit: First time updating LLM stats...
-[2021.03.28-15.56.02:738][  0]LogAssetRegistry: Asset discovery search completed in 2.8329 seconds
-[2021.03.28-15.56.02:739][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
-[2021.03.28-15.56.02:759][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.03.28-15.56.03:397][  2]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.03.28-15.56.21:113][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
-[2021.03.28-15.56.21:113][615]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-15.56.21:116][615]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.03.28-15.56.21:135][615]LightingResults: New page: Lighting Build
-[2021.03.28-15.56.21:135][615]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
-[2021.03.28-15.56.21:136][615]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-15.56.21:136][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.56.21:136][615]MapCheck: New page: Map Check
-[2021.03.28-15.56.21:136][615]LightingResults: New page: Lighting Build
-[2021.03.28-15.56.21:139][615]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-15.56.21:141][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2021.03.28-15.56.21:241][615]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
-[2021.03.28-15.56.21:242][615]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-15.56.21:251][615]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-15.56.21:258][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
-[2021.03.28-15.56.21:307][615]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-15.56.21:307][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
-[2021.03.28-15.56.21:307][615]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.194
-[2021.03.28-15.56.21:307][615]LogSlate: Window 'Open Level' being destroyed
-[2021.03.28-15.56.23:109][816]LogTemp: Repeating last play command: Selected Viewport
-[2021.03.28-15.56.23:119][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.03.28-15.56.23:119][816]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 7:56:23 PM)
-[2021.03.28-15.56.23:120][816]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2021.03.28-15.56.23:121][816]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-[2021.03.28-15.56.23:121][816]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
-[2021.03.28-15.56.23:188][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066232s)
-[2021.03.28-15.56.23:189][816]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-15.56.23:189][816]LogPlayLevel: PIE: World Init took: (0.001312s)
-[2021.03.28-15.56.23:189][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.067742s)
-[2021.03.28-15.56.23:193][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
-[2021.03.28-15.56.23:193][816]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.03.28-15.56.23:193][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.03.28-15.56.23:193][816]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.03.28-15.56.23:194][816]LogAudio: Display: Using built-in audio occlusion.
-[2021.03.28-15.56.23:194][816]LogAudioMixer: Display: Initializing audio mixer.
-[2021.03.28-15.56.23:196][816]LogAudioMixer: Display: 0: FrontLeft
-[2021.03.28-15.56.23:196][816]LogAudioMixer: Display: 1: FrontRight
-[2021.03.28-15.56.23:204][816]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
-[2021.03.28-15.56.23:204][816]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.03.28-15.56.23:204][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.03.28-15.56.23:204][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.03.28-15.56.23:205][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.03.28-15.56.23:205][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.03.28-15.56.23:205][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.03.28-15.56.23:215][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.03.28-15.56.23:215][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.03.28-15.56.23:215][816]LogInit: FAudioDevice initialized.
-[2021.03.28-15.56.23:215][816]LogAudio: Display: Audio Device (ID: 2) registered with world 'TheRivenTower_Map'.
-[2021.03.28-15.56.23:225][816]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2021.03.28-15.56.23:229][816]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-17.56.23
-[2021.03.28-15.56.23:230][816]LogWorld: Bringing up level for play took: 0.003530
-[2021.03.28-15.56.23:230][816]LogOnline: OSS: Creating online subsystem instance for: :Context_1
-[2021.03.28-15.56.23:233][816]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
-[2021.03.28-15.56.23:234][816]PIE: Server logged in
-[2021.03.28-15.56.23:236][816]PIE: Play in editor total start time 0.117 seconds.
-[2021.03.28-15.57.13:109][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.57.13:109][835]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
-[2021.03.28-15.57.13:110][835]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-15.57.13:110][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.57.13:117][835]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.03.28-15.57.13:120][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.57.13:122][835]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-15.57.13:123][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.03.28-15.57.13:124][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.03.28-15.57.13:136][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.57.13:140][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
-[2021.03.28-15.57.13:176][838]LogPlayLevel: Display: Destroying online subsystem :Context_1
-[2021.03.28-15.57.55:953][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2021.03.28-15.57.55:990][916]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone
-[2021.03.28-15.57.55:991][916]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/DownCliffZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-15.57.55:991][916]LightingResults: New page: Lighting Build
-[2021.03.28-15.57.55:991][916]LoadErrors: New page: Loading map: DownCliffZone.umap
-[2021.03.28-15.57.56:040][916]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-15.57.56:040][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.57.56:040][916]MapCheck: New page: Map Check
-[2021.03.28-15.57.56:040][916]LightingResults: New page: Lighting Build
-[2021.03.28-15.57.56:044][916]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-15.57.56:053][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
-[2021.03.28-15.57.56:054][916]LogAudio: Display: Audio Device (ID: 1) registered with world 'DownCliffZone'.
-[2021.03.28-15.57.56:058][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-15.57.56:058][916]LogAIModule: Creating AISystem for world DownCliffZone
-[2021.03.28-15.57.56:065][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
-[2021.03.28-15.57.56:077][916]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-15.57.56:077][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
-[2021.03.28-15.57.56:077][916]LogFileHelpers: Loading map 'DownCliffZone' took 0.085
-[2021.03.28-15.57.57:747][102]LogTemp: Repeating last play command: Selected Viewport
-[2021.03.28-15.57.57:757][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.03.28-15.57.57:757][102]PIE: New page: PIE session: DownCliffZone (Mar 28, 2021, 7:57:57 PM)
-[2021.03.28-15.57.57:788][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DownCliffZone
-[2021.03.28-15.57.57:806][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017840s)
-[2021.03.28-15.57.57:807][102]LogAIModule: Creating AISystem for world DownCliffZone
-[2021.03.28-15.57.57:807][102]LogPlayLevel: PIE: World Init took: (0.000939s)
-[2021.03.28-15.57.57:807][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone to /Game/ThirdPersonBP/Maps/UEDPIE_0_DownCliffZone.DownCliffZone (0.018941s)
-[2021.03.28-15.57.57:811][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
-[2021.03.28-15.57.57:812][102]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.03.28-15.57.57:812][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.03.28-15.57.57:812][102]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.03.28-15.57.57:813][102]LogAudio: Display: Using built-in audio occlusion.
-[2021.03.28-15.57.57:813][102]LogAudioMixer: Display: Initializing audio mixer.
-[2021.03.28-15.57.57:815][102]LogAudioMixer: Display: 0: FrontLeft
-[2021.03.28-15.57.57:815][102]LogAudioMixer: Display: 1: FrontRight
-[2021.03.28-15.57.57:824][102]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
-[2021.03.28-15.57.57:824][102]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.03.28-15.57.57:824][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.03.28-15.57.57:824][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.03.28-15.57.57:825][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.03.28-15.57.57:825][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.03.28-15.57.57:825][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.03.28-15.57.57:836][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.03.28-15.57.57:836][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.03.28-15.57.57:836][102]LogInit: FAudioDevice initialized.
-[2021.03.28-15.57.57:836][102]LogAudio: Display: Audio Device (ID: 3) registered with world 'DownCliffZone'.
-[2021.03.28-15.57.57:845][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2021.03.28-15.57.57:847][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DownCliffZone.DownCliffZone up for play (max tick rate 0) at 2021.03.28-17.57.57
-[2021.03.28-15.57.57:847][102]LogWorld: Bringing up level for play took: 0.001840
-[2021.03.28-15.57.57:847][102]LogOnline: OSS: Creating online subsystem instance for: :Context_2
-[2021.03.28-15.57.57:850][102]PIE: Server logged in
-[2021.03.28-15.57.57:850][102]PIE: Play in editor total start time 0.094 seconds.
-[2021.03.28-15.59.05:329][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.59.05:329][189]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DownCliffZone
-[2021.03.28-15.59.05:329][189]LogWorld: UWorld::CleanupWorld for DownCliffZone, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-15.59.05:330][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.59.05:341][189]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.03.28-15.59.05:343][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-15.59.05:345][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.28-15.59.05:346][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.03.28-15.59.05:347][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.03.28-15.59.05:361][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
-[2021.03.28-15.59.05:404][191]LogPlayLevel: Display: Destroying online subsystem :Context_2
-[2021.03.28-16.02.26:919][304]Cmd: POLY SELECT ALL
-[2021.03.28-16.09.53:126][158]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2021.03.28-16.09.53:729][227]Cmd: TRANSACTION UNDO
-[2021.03.28-16.09.53:729][227]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.09.54:123][238]Cmd: TRANSACTION UNDO
-[2021.03.28-16.09.54:123][238]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.09.54:733][300]Cmd: TRANSACTION UNDO
-[2021.03.28-16.09.54:733][300]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.10.18:974][101]Cmd: EDIT COPY
-[2021.03.28-16.10.24:361][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
-[2021.03.28-16.10.24:438][725]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
-[2021.03.28-16.10.24:439][725]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.10.24:439][725]LightingResults: New page: Lighting Build
-[2021.03.28-16.10.24:439][725]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
-[2021.03.28-16.10.24:469][725]LogWorld: UWorld::CleanupWorld for DownCliffZone, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.10.24:469][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.10.24:469][725]MapCheck: New page: Map Check
-[2021.03.28-16.10.24:469][725]LightingResults: New page: Lighting Build
-[2021.03.28-16.10.24:474][725]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.10.24:477][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
-[2021.03.28-16.10.24:477][725]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
-[2021.03.28-16.10.24:485][725]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.10.24:485][725]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-16.10.24:493][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.03.28-16.10.24:505][725]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.10.24:505][725]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
-[2021.03.28-16.10.24:506][725]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.067
-[2021.03.28-16.10.28:556][196]Cmd: EDIT PASTE
-[2021.03.28-16.10.45:014][123]Cmd: DELETE
-[2021.03.28-16.10.45:014][123]Cmd: ACTOR DELETE
-[2021.03.28-16.10.45:041][123]LogEditorActor: Deleted Actor: Brush
-[2021.03.28-16.10.45:046][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
-[2021.03.28-16.10.45:173][123]LogEditorActor: Deleted 1 Actors (0.158 secs)
-[2021.03.28-16.10.50:858][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
-[2021.03.28-16.10.52:633][758]LogSlate: Window 'Save Content' being destroyed
-[2021.03.28-16.10.52:674][758]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone
-[2021.03.28-16.10.52:674][758]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/DownCliffZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.10.52:674][758]LightingResults: New page: Lighting Build
-[2021.03.28-16.10.52:682][758]LoadErrors: New page: Loading map: DownCliffZone.umap
-[2021.03.28-16.10.52:719][758]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.10.52:719][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.10.52:720][758]MapCheck: New page: Map Check
-[2021.03.28-16.10.52:720][758]LightingResults: New page: Lighting Build
-[2021.03.28-16.10.52:724][758]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.10.52:734][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
-[2021.03.28-16.10.52:735][758]LogAudio: Display: Audio Device (ID: 1) registered with world 'DownCliffZone'.
-[2021.03.28-16.10.52:739][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.10.52:739][758]LogAIModule: Creating AISystem for world DownCliffZone
-[2021.03.28-16.10.52:746][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
-[2021.03.28-16.10.52:760][758]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.10.52:761][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
-[2021.03.28-16.10.52:761][758]LogFileHelpers: Loading map 'DownCliffZone' took 0.086
-[2021.03.28-16.10.59:886][546]Cmd: POLY SELECT ALL
-[2021.03.28-16.11.01:173][698]Cmd: EDIT COPY
-[2021.03.28-16.11.06:972][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
-[2021.03.28-16.11.07:054][372]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
-[2021.03.28-16.11.07:054][372]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.11.07:054][372]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.07:054][372]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
-[2021.03.28-16.11.07:098][372]LogWorld: UWorld::CleanupWorld for DownCliffZone, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.11.07:098][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.11.07:098][372]MapCheck: New page: Map Check
-[2021.03.28-16.11.07:098][372]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.07:102][372]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.11.07:105][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
-[2021.03.28-16.11.07:105][372]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
-[2021.03.28-16.11.07:112][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.11.07:112][372]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-16.11.07:119][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
-[2021.03.28-16.11.07:136][372]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.11.07:137][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
-[2021.03.28-16.11.07:137][372]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.082
-[2021.03.28-16.11.09:464][640]Cmd: EDIT PASTE
-[2021.03.28-16.11.13:843][161]Cmd: EDIT PASTE
-[2021.03.28-16.11.24:713][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
-[2021.03.28-16.11.24:741][437]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
-[2021.03.28-16.11.24:742][437]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.11.24:742][437]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.24:742][437]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
-[2021.03.28-16.11.24:743][437]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.11.24:743][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.11.24:744][437]MapCheck: New page: Map Check
-[2021.03.28-16.11.24:744][437]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.24:748][437]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.11.24:750][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
-[2021.03.28-16.11.24:809][437]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
-[2021.03.28-16.11.24:810][437]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-16.11.24:818][437]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.11.24:824][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
-[2021.03.28-16.11.24:837][437]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.11.24:837][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
-[2021.03.28-16.11.24:837][437]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.096
-[2021.03.28-16.11.29:738][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
-[2021.03.28-16.11.29:772][  8]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone
-[2021.03.28-16.11.29:772][  8]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/DownCliffZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.11.29:772][  8]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.29:772][  8]LoadErrors: New page: Loading map: DownCliffZone.umap
-[2021.03.28-16.11.29:818][  8]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.11.29:818][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.11.29:819][  8]MapCheck: New page: Map Check
-[2021.03.28-16.11.29:819][  8]LightingResults: New page: Lighting Build
-[2021.03.28-16.11.29:823][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.11.29:825][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
-[2021.03.28-16.11.29:826][  8]LogAudio: Display: Audio Device (ID: 1) registered with world 'DownCliffZone'.
-[2021.03.28-16.11.29:829][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.11.29:829][  8]LogAIModule: Creating AISystem for world DownCliffZone
-[2021.03.28-16.11.29:838][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.03.28-16.11.29:850][  8]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.11.29:850][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
-[2021.03.28-16.11.29:850][  8]LogFileHelpers: Loading map 'DownCliffZone' took 0.078
-[2021.03.28-16.12.02:104][928]Cmd: EDIT COPY
-[2021.03.28-16.12.08:238][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
-[2021.03.28-16.12.08:319][640]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
-[2021.03.28-16.12.08:319][640]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.03.28-16.12.08:319][640]LightingResults: New page: Lighting Build
-[2021.03.28-16.12.08:320][640]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
-[2021.03.28-16.12.08:369][640]LogWorld: UWorld::CleanupWorld for DownCliffZone, bSessionEnded=true, bCleanupResources=true
-[2021.03.28-16.12.08:369][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.28-16.12.08:369][640]MapCheck: New page: Map Check
-[2021.03.28-16.12.08:369][640]LightingResults: New page: Lighting Build
-[2021.03.28-16.12.08:372][640]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.03.28-16.12.08:376][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
-[2021.03.28-16.12.08:376][640]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
-[2021.03.28-16.12.08:383][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.28-16.12.08:383][640]LogAIModule: Creating AISystem for world TheRivenTower_Map
-[2021.03.28-16.12.08:389][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
-[2021.03.28-16.12.08:405][640]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.28-16.12.08:405][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
-[2021.03.28-16.12.08:405][640]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.085
-[2021.03.28-16.12.11:861][ 33]Cmd: EDIT PASTE
-[2021.03.28-16.13.05:538][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2021.03.28-16.13.35:018][282]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:018][282]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.35:185][286]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:185][286]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.35:353][290]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:353][290]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.35:488][293]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:488][293]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.35:638][305]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:639][305]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.35:781][310]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:781][310]LogEditorTransaction: Undo Select Brush Surface
-[2021.03.28-16.13.35:947][316]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.35:947][316]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.36:123][324]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.36:123][324]LogEditorTransaction: Undo Select Brush Surface
-[2021.03.28-16.13.36:340][336]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.36:340][336]LogEditorTransaction: Undo Move Actors
-[2021.03.28-16.13.36:579][363]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.36:579][363]LogEditorTransaction: Undo Clicking on Actors
-[2021.03.28-16.13.42:582][ 35]Cmd: TRANSACTION UNDO
-[2021.03.28-16.13.42:583][ 35]LogEditorTransaction: Undo Move Actors
-[2021.03.28-16.13.43:486][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2021.03.28-16.14.03:920][335]Cmd: TRANSACTION UNDO
-[2021.03.28-16.14.03:920][335]LogEditorTransaction: Undo Move Actors
-[2021.03.28-16.14.04:220][337]Cmd: TRANSACTION UNDO
-[2021.03.28-16.14.04:220][337]LogEditorTransaction: Undo Rotate Actors
-[2021.03.28-16.14.34:363][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2021.03.28-16.14.50:072][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
-[2021.03.28-16.14.50:282][271]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map522CEF0E49959C55A415BBA8E9AEEA88.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
-[2021.03.28-16.14.50:322][271]AssetCheck: New page: Asset Save: TheRivenTower_Map
-[2021.03.28-16.14.50:322][271]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
-[2021.03.28-16.14.52:459][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
-[2021.03.28-16.15.12:876][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
-[2021.03.28-16.15.13:083][135]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapA6F4988045E1F2361150D89DF688AC38.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
-[2021.03.28-16.15.13:101][135]AssetCheck: New page: Asset Save: TheRivenTower_Map
-[2021.03.28-16.15.13:101][135]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.28-16.52.34:676][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.28-16.52.34:677][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:677][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:687][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.28-16.52.34:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.28-16.52.34:688][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.28-16.52.34:688][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.28-16.52.34:688][  0]LogHAL: Display: Platform has ~ 16 GB [17129693184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.28-16.52.34:688][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.28-16.52.34:688][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Scalability.ini]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.28-16.52.34:689][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Config/Windows/Engine.ini]
+[2021.03.28-16.52.34:689][  0]LogInit: Computer: DESKTOP-GEB4VI6
+[2021.03.28-16.52.34:689][  0]LogInit: User: nadig
+[2021.03.28-16.52.34:689][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.28-16.52.34:689][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.28-16.52.34:690][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.28-16.52.34:690][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.28-16.52.34:690][  0]LogMemory: Process Physical Memory: 137.91 MB used, 137.91 MB peak
+[2021.03.28-16.52.34:690][  0]LogMemory: Process Virtual Memory: 110.48 MB used, 110.48 MB peak
+[2021.03.28-16.52.34:690][  0]LogMemory: Physical Memory: 6949.54 MB used,  9386.61 MB free, 16336.15 MB total
+[2021.03.28-16.52.34:690][  0]LogMemory: Virtual Memory: 134206568.00 MB used,  11159.15 MB free, 134217728.00 MB total
+[2021.03.28-16.52.34:694][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.28-16.52.34:711][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.28-16.52.34:712][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.03.28-16.52.34:712][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.03.28-16.52.34:893][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.28-16.52.34:903][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.28-16.52.34:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.28-16.52.34:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.28-16.52.35:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.28-16.52.35:046][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.28-16.52.35:046][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.28-16.52.35:046][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.28-16.52.35:118][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.03.28-16.52.35:118][  0]LogD3D11RHI:       5968/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.28-16.52.35:119][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.28-16.52.35:119][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.28-16.52.35:119][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.28-16.52.35:125][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.28-16.52.35:125][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.28-16.52.35:125][  0]LogWindows: EnumDisplayDevices:
+[2021.03.28-16.52.35:125][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.03.28-16.52.35:125][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.03.28-16.52.35:126][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.03.28-16.52.35:126][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.03.28-16.52.35:126][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.28-16.52.35:126][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.03.28-16.52.35:126][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.03.28-16.52.35:126][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.03.28-16.52.35:126][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
+[2021.03.28-16.52.35:180][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.28-16.52.35:180][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.28-16.52.35:180][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.28-16.52.35:201][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.03.28-16.52.35:202][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.28-16.52.35:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.28-16.52.35:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.28-16.52.35:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.28-16.52.35:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.28-16.52.35:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.28-16.52.35:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.28-16.52.35:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.28-16.52.35:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.28-16.52.35:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.28-16.52.35:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.28-16.52.35:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.28-16.52.35:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.28-16.52.35:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.28-16.52.35:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.28-16.52.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.28-16.52.35:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.28-16.52.35:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.28-16.52.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.28-16.52.35:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.28-16.52.35:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.28-16.52.35:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.28-16.52.35:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.28-16.52.35:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.28-16.52.35:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.28-16.52.35:634][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.28-16.52.35:641][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.28-16.52.35:687][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.28-16.52.35:687][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Intermediate/Shaders/WorkingDirectory/4584/).
+[2021.03.28-16.52.35:687][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nadig/AppData/Local/Temp/UnrealShaderWorkingDir/C0D520E04459F7F0CF12ACB254F5A365/'.
+[2021.03.28-16.52.35:687][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.28-16.52.35:687][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.28-16.52.36:332][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.28-16.52.36:374][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.28-16.52.36:374][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.28-16.52.36:374][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.28-16.52.36:374][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.28-16.52.36:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.28-16.52.36:375][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.28-16.52.36:386][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.28-16.52.36:386][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.28-16.52.36:386][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.28-16.52.36:399][  0]LogDerivedDataCache: Speed tests for C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.28-16.52.36:399][  0]LogDerivedDataCache: Display: Performance to C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=304.77MBs, RandomWriteSpeed=97.00MBs. Assigned SpeedClass 'Local'
+[2021.03.28-16.52.36:400][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nadig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.28-16.52.36:400][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.28-16.52.36:400][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.28-16.52.36:443][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.28-16.52.36:443][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.28-16.52.36:463][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.03.28-16.52.36:663][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.28-16.52.36:663][  0]LogInit: Active device profile: [0000025F219D5E00][0000025F044D2D00 49] Windows
+[2021.03.28-16.52.36:663][  0]LogInit: Profiles: [0000025F219D5E00][0000025F044D2D00 49] Windows, [0000025F2192E500][0000025F044DAE80 49] WindowsNoEditor, [0000025F219D7900][0000025F044DF000 49] WindowsServer, [0000025F2192E100][0000025F22639180 49] WindowsClient, [0000025F219D6D00][0000025F2263D300 49] IOS, [0000025F2192C800][0000025F22641480 49] iPadAir, [0000025F219D7B00][0000025F044D75C0 49] iPadAir2, [0000025F22B83200][0000025F22651800 49] IPadPro, [0000025F22B83300][0000025F2264D840 49] iPadAir3, [0000025F219D4200][0000025F22655980 49] iPadAir4, [0000025F22B83500][0000025F2265DB00 49] iPadMini2, [0000025F219D4E00][0000025F22661C80 49] iPadMini3, [0000025F22B81400][0000025F22664140 49] iPadMini4, [0000025F219D5000][0000025F226682C0 49] iPadMini5, [0000025F22B9AB00][0000025F22670580 49] iPhone6, [0000025F22B9AC00][0000025F2266C5C0 49] iPodTouch6, [0000025F22B83C00][0000025F22678880 49] iPhone7, [0000025F22B83B00][0000025F226748C0 49] iPodTouch7, [0000025F22B98E00][0000025F22694A40 49] iPhone5S, [0000025F22B83D00][0000025F22698BC0 49] iPhone6Plus, [0000025F22B99200][0000025F2269CD40 49] iPhone6S, [0000025F22B82800][0000025F226A0EC0 49] iPhone6SPlus, [0000025F22B9AD00][0000025F226A5040 49] iPhone7Plus, [0000025F22B83800][0000025F226A91C0 49] iPhoneSE, [0000025F22B9B200][0000025F226CD340 49] iPhone8, [0000025F22B81600][0000025F226D14C0 49] iPhone8Plus, [0000025F22B99F00][0000025F226D5640 49] iPhoneX, [0000025F22B81D00][0000025F22659780 49] iPhoneXS, [0000025F22B98300][0000025F226D98C0 49] iPhoneXSMax, [0000025F22B80400][0000025F226DDA00 49] iPhoneXR, [0000025F22B9A500][0000025F226E5B80 49] iPhone11, [0000025F22B82500][0000025F226E9D00 49] iPhone11Pro, [0000025F22B98600][0000025F226EC1C0 49] iPhone11ProMax, [0000025F22B80E00][0000025F2271C340 49] iPhoneSE2, [0000025F22B99400][0000025F227204C0 49] iPhone12Mini, [0000025F22B81E00][0000025F22724640 49] iPhone12, [0000025F22B9B400][0000025F227287C0 49] iPhone12Pro, [0000025F22B80200][0000025F2272C940 49] iPhone12ProMax, [0000025F22B99B00][0000025F22730AC0 49] iPadPro105, [0000025F22B9B600][0000025F22734C40 49] iPadPro129, [0000025F2192DD00][0000025F22738DC0 49] iPadPro97, [0000025F22B98C00][0000025F2273CF40 49] iPadPro2_129, [0000025F2192EC00][0000025F227410C0 49] iPad5, [0000025F22B98500][0000025F22745240 49] iPad6, [0000025F2192CB00][0000025F227493C0 49] iPad7, [0000025F22B9B800][0000025F2274D540 49] iPad8, [0000025F2192D200][0000025F227516C0 49] iPadPro11, [0000025F22B99A00][0000025F226E1800 49] iPadPro2_11, [0000025F2192C700][0000025F22755940 49] iPadPro3_129, [0000025F2192E400][0000025F22759A80 49] iPadPro4_129, [0000025F22B83700][0000025F22761C00 49] AppleTV, [0000025F2192C300][0000025F227640C0 49] AppleTV4K, [0000025F22B83400][0000025F22768240 49] TVOS, [0000025F2192DF00][0000025F2276C3C0 49] Mac, [0000025F22B80100][0000025F22770540 49] MacClient, [0000025F22B9B500][0000025F227746C0 49] MacNoEditor, [0000025F22B83E00][0000025F22778840 49] MacServer, [0000025F22B99D00][0000025F2277C9C0 49] Linux, [0000025F22B81000][0000025F22780B40 49] LinuxNoEditor, [0000025F22B98800][0000025F22784CC0 49] LinuxAArch64NoEditor, [0000025F22B82100][0000025F22788E40 49] LinuxClient, [0000025F22B9AE00][0000025F2278CFC0 49] LinuxAArch64Client, [0000025F22B80C00][0000025F22791140 49] LinuxServer, [0000025F22B9B900][0000025F227952C0 49] LinuxAArch64Server, [0000025F22B80300][0000025F22799440 49] Android, [0000025F22B9AF00][0000025F2279D5C0 49] Android_Low, [0000025F22B82600][0000025F227A1740 49] Android_Mid, [0000025F22B9B700][0000025F2275D880 49] Android_High, [0000025F22B82000][0000025F227A59C0 49] Android_Default, [0000025F22B9B300][0000025F227A9B00 49] Android_Adreno4xx, [0000025F22B80F00][0000025F227ADC40 49] Android_Adreno5xx_Low, [0000025F22B9BE00][0000025F227B4100 49] Android_Adreno5xx, [0000025F22B81500][0000025F227B8280 49] Android_Adreno6xx, [0000025F22B9A900][0000025F227BC400 49] Android_Adreno6xx_Vulkan, [0000025F22B82F00][0000025F237D0580 49] Android_Mali_T6xx, [0000025F22B9B000][0000025F237D4700 49] Android_Mali_T7xx, [0000025F22B82300][0000025F237D8880 49] Android_Mali_T8xx, [0000025F22B98B00][0000025F237DCA00 49] Android_Mali_G71, [0000025F22B80D00][0000025F237E0B80 49] Android_Mali_G72, [0000025F22B98D00][0000025F237E4D00 49] Android_Mali_G72_Vulkan, [0000025F22B82700][0000025F237E8E80 49] Android_Mali_G76, [0000025F22B99800][0000025F237ED000 49] Android_Mali_G76_Vulkan, [0000025F22B80700][0000025F237F1180 49] Android_Mali_G77, [0000025F22B9A400][0000025F237F5300 49] Android_Mali_G77_Vulkan, [0000025F22B82400][0000025F237F9480 49] Android_Vulkan_SM5, [0000025F22B99600][0000025F237FD600 49] Android_PowerVR_G6xxx, [0000025F22B80B00][0000025F23801780 49] Android_PowerVR_GT7xxx, [0000025F22B9AA00][0000025F227B18C0 49] Android_PowerVR_GE8xxx, [0000025F22B80900][0000025F23805A00 49] Android_PowerVR_GM9xxx, [0000025F22B98100][0000025F23809B40 49] Android_PowerVR_GM9xxx_Vulkan, [0000025F22B83900][0000025F2380DC80 49] Android_TegraK1, [0000025F22B99000][0000025F23814140 49] Android_Unknown_Vulkan, [0000025F2192FE00][0000025F238182C0 49] Lumin, [0000025F219D7700][0000025F2381C440 49] Lumin_Desktop, [0000025F2192DC00][0000025F238205C0 49] HoloLens, 
+[2021.03.28-16.52.36:751][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.28-16.52.36:751][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.28-16.52.36:751][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.28-16.52.36:751][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.28-16.52.36:751][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.28-16.52.36:769][  0]LogNetVersion: TheRivenTower 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 930446916)
+[2021.03.28-16.52.37:112][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.28-16.52.37:154][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041056 seconds
+[2021.03.28-16.52.37:159][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.28-16.52.37:159][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.28-16.52.37:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.28-16.52.37:464][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.28-16.52.37:468][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.28-16.52.37:572][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.37:572][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.37:577][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.37:584][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.37:589][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.37:603][  0]LogUProjectInfo: Found projects:
+[2021.03.28-16.52.37:728][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.28-16.52.37:743][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.28-16.52.37:743][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.28-16.52.37:782][  0]LogCollectionManager: Loaded 0 collections in 0.002091 seconds
+[2021.03.28-16.52.37:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Collections/' took 0.00s
+[2021.03.28-16.52.37:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Developers/nadig/Collections/' took 0.00s
+[2021.03.28-16.52.37:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Collections/' took 0.00s
+[2021.03.28-16.52.37:803][  0]LogOcInput: OculusInput pre-init called
+[2021.03.28-16.52.37:815][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.28-16.52.37:815][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.28-16.52.37:859][  0]LogEngine: Initializing Engine...
+[2021.03.28-16.52.37:860][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.28-16.52.37:860][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.28-16.52.37:861][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.28-16.52.37:948][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.28-16.52.37:955][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.28-16.52.37:963][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.28-16.52.37:966][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.28-16.52.37:966][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.28-16.52.37:966][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-16.52.37:967][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-16.52.37:967][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-16.52.37:967][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-16.52.37:976][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-16.52.37:976][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-16.52.38:000][  0]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.03.28-16.52.38:002][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-16.52.38:004][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-16.52.38:004][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-16.52.38:005][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-16.52.38:005][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-16.52.38:005][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-16.52.38:006][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-16.52.38:006][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-16.52.38:006][  0]LogInit: FAudioDevice initialized.
+[2021.03.28-16.52.38:006][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.28-16.52.38:006][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.28-16.52.38:057][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/nadig/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.28-16.52.38:061][  0]LogInit: Texture streaming: Enabled
+[2021.03.28-16.52.38:071][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.28-16.52.38:074][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.28-16.52.38:074][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.28-16.52.38:075][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.28-16.52.38:109][  0]LogInit: Transaction tracking system initialized
+[2021.03.28-16.52.38:125][  0]BlueprintLog: New page: Editor Load
+[2021.03.28-16.52.38:188][  0]LocalizationService: Localization service is disabled
+[2021.03.28-16.52.38:209][  0]TimingProfiler: Initialize
+[2021.03.28-16.52.38:209][  0]TimingProfiler: OnSessionChanged
+[2021.03.28-16.52.38:209][  0]LoadingProfiler: Initialize
+[2021.03.28-16.52.38:209][  0]LoadingProfiler: OnSessionChanged
+[2021.03.28-16.52.38:209][  0]NetworkingProfiler: Initialize
+[2021.03.28-16.52.38:209][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.28-16.52.38:209][  0]MemoryProfiler: Initialize
+[2021.03.28-16.52.38:209][  0]MemoryProfiler: OnSessionChanged
+[2021.03.28-16.52.38:326][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.28-16.52.38:326][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.28-16.52.38:451][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/' took 0.00s
+[2021.03.28-16.52.38:570][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.28-16.52.38:573][  0]SourceControl: Source control is disabled
+[2021.03.28-16.52.38:573][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.765
+[2021.03.28-16.52.38:573][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.28-16.52.38:573][  0]LightingResults: New page: Lighting Build
+[2021.03.28-16.52.38:574][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-16.52.38:574][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-16.52.38:574][  0]MapCheck: New page: Map Check
+[2021.03.28-16.52.38:574][  0]LightingResults: New page: Lighting Build
+[2021.03.28-16.52.38:583][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.28-16.52.38:726][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.03.28-16.52.38:803][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.03.28-16.52.38:804][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.28-16.52.38:815][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.28-16.52.38:821][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.28-16.52.38:821][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.28-16.52.38:822][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.03.28-16.52.38:822][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.248
+[2021.03.28-16.52.38:823][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.015
+[2021.03.28-16.52.38:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-16.52.38:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-16.52.38:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-16.52.38:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-16.52.38:976][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3601 classes and 859 folders.
+[2021.03.28-16.52.38:978][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.28-16.52.38:979][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-16.52.38:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-16.52.38:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.28-16.52.38:980][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.28-16.52.38:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.28-16.52.38:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.28-16.52.38:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-16.52.38:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.28-16.52.38:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.28-16.52.38:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.28-16.52.38:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.28-16.52.38:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-16.52.38:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.28-16.52.38:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.28-16.52.38:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-16.52.38:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-16.52.38:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-16.52.38:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.28-16.52.38:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-16.52.38:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.28-16.52.38:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-16.52.38:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-16.52.38:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-16.52.38:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.28-16.52.38:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.28-16.52.38:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:990][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.28-16.52.38:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.28-16.52.38:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.28-16.52.38:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.28-16.52.38:992][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.28-16.52.38:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.28-16.52.38:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.28-16.52.38:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.28-16.52.39:033][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.28-16.52.39:034][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.03.28-16.52.39:063][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.28-16.52.39:064][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.28-16.52.39:068][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.28-16.52.39:157][  0]LogRenderer: Reallocating scene render targets to support 1200x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.28-16.52.39:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.28-16.52.39:358][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.28-16.52.39:358][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.28-16.52.39:358][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.28-16.52.39:358][  0]LogLoad: (Engine Initialization) Total time: 5.55 seconds
+[2021.03.28-16.52.39:358][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.28-16.52.39:358][  0]LogInit: First time updating LLM stats...
+[2021.03.28-16.52.39:393][  0]LogAssetRegistry: Asset discovery search completed in 2.9311 seconds
+[2021.03.28-16.52.39:394][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.28-16.52.39:414][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.28-16.52.39:480][  5]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.28-16.52.41:415][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.28-16.52.41:419][218]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.28-16.52.41:561][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-16.52.41:561][218]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.28-16.52.41:561][218]LightingResults: New page: Lighting Build
+[2021.03.28-16.52.41:561][218]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
+[2021.03.28-16.52.41:563][218]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-16.52.41:563][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-16.52.41:563][218]MapCheck: New page: Map Check
+[2021.03.28-16.52.41:563][218]LightingResults: New page: Lighting Build
+[2021.03.28-16.52.41:566][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-16.52.41:588][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.28-16.52.41:588][218]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
+[2021.03.28-16.52.41:596][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.28-16.52.41:596][218]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-16.52.41:604][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.28-16.52.41:617][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.28-16.52.41:617][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2021.03.28-16.52.41:617][218]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.056
