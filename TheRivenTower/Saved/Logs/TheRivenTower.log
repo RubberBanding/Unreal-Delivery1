@@ -1359,3 +1359,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-16.49.40:002][141]LogSavePackage: Moving '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/DownCliffZone66BB30C1462004444FBFCCBA11946902.tmp' to '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/DownCliffZone.umap'
 [2021.03.28-16.49.40:025][141]AssetCheck: New page: Asset Save: DownCliffZone
 [2021.03.28-16.49.40:025][141]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone
+[2021.03.28-16.51.54:430][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.28-16.51.59:309][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.28-16.52.01:790][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
