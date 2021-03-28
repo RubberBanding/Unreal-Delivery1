@@ -1362,3 +1362,507 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-16.51.54:430][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.03.28-16.51.59:309][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.03.28-16.52.01:790][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.28-16.55.21:517][332]Cmd: TRANSACTION UNDO
+[2021.03.28-16.55.21:517][332]LogEditorTransaction: Undo Regroup Ctrl+G
+[2021.03.28-16.55.21:558][332]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-16.55.21:564][332]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-16.55.21:570][332]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-16.55.21:570][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-16.55.21:572][332]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.55.22:210][358]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-16.55.22:313][366]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-16.55.22:529][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-16.55.22:877][405]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-16.55.23:091][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-16.55.23:179][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-16.55.23:592][455]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-16.55.23:670][460]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-16.55.23:904][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-16.55.23:927][478]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.55.23:927][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.55.23:927][478]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.55.23:927][478]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-16.55.24:208][498]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-16.55.24:350][508]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-16.55.24:523][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-16.55.24:836][542]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-16.55.25:058][557]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-16.55.25:185][566]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-16.55.25:590][594]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-16.55.25:884][615]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.55.25:884][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.55.25:884][615]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.55.25:884][615]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-16.55.27:271][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.28-16.55.38:760][920]Cmd: EDIT COPY
+[2021.03.28-16.55.52:682][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.28-16.55.52:725][908]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.55.54:331][908]LogSlate: Window 'Save Content' being destroyed
+[2021.03.28-16.55.54:341][908]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.55.54:372][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.28-16.55.54:413][908]LogSavePackage: Moving '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/DownCliffZone783A16DE4DF00B7FE251689445FDA637.tmp' to '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Maps/DownCliffZone.umap'
+[2021.03.28-16.55.54:433][908]LogFileHelpers: Saving map 'DownCliffZone' took 0.065
+[2021.03.28-16.55.54:442][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/NPC" FILE="../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/Materials/NPC.uasset" SILENT=true
+[2021.03.28-16.55.54:453][908]LogSavePackage: Moving '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/NPCA2874CE34C23A9940DDF3FBBD82A8E54.tmp' to '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/Materials/NPC.uasset'
+[2021.03.28-16.55.54:462][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Reward" FILE="../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/Materials/Reward.uasset" SILENT=true
+[2021.03.28-16.55.54:471][908]LogSavePackage: Moving '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/RewardE6B9889C4FD81AA471550F989955DE8D.tmp' to '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/Materials/Reward.uasset'
+[2021.03.28-16.55.54:479][908]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.55.54:678][908]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.28-16.55.54:680][908]Cmd: MAP LOAD FILE="../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.28-16.55.54:680][908]LightingResults: New page: Lighting Build
+[2021.03.28-16.55.54:682][908]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
+[2021.03.28-16.55.54:684][908]LogWorld: UWorld::CleanupWorld for DownCliffZone, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-16.55.54:684][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-16.55.54:684][908]MapCheck: New page: Map Check
+[2021.03.28-16.55.54:684][908]LightingResults: New page: Lighting Build
+[2021.03.28-16.55.54:689][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-16.55.54:697][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.28-16.55.54:699][908]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
+[2021.03.28-16.55.54:706][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.28-16.55.54:707][908]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-16.55.54:714][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.28-16.55.54:728][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.28-16.55.54:728][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2021.03.28-16.55.54:728][908]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.049
+[2021.03.28-16.55.54:761][908]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.28-16.55.54:761][908]LogContentValidation: Display: Validating Material /Game/Materials/NPC.NPC
+[2021.03.28-16.55.54:761][908]LogContentValidation: Display: Validating Material /Game/Materials/Reward.Reward
+[2021.03.28-16.55.54:761][908]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DownCliffZone.DownCliffZone
+[2021.03.28-16.56.58:829][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-16.57.39:414][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-16.57.40:060][ 90]Cmd: EDIT PASTE
+[2021.03.28-16.57.49:311][ 93]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.06:775][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.23:374][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.26:413][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.27:764][604]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.28:845][720]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.29:993][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.31:505][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.33:881][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.34:888][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.35:630][477]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.36:527][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.37:079][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.38:570][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.40:248][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.41:079][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.41:732][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.42:258][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.43:624][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.44:862][557]Cmd: DELETE
+[2021.03.28-16.58.44:862][557]Cmd: ACTOR DELETE
+[2021.03.28-16.58.44:923][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:924][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:925][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Deleted Actor: Brush
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Cylinder Brush25.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush206.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush207.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Linear Stair Brush3.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Cylinder Brush26.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush208.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush209.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush210.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush211.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush212.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush213.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush214.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush215.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush216.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush217.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush218.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Cylinder Brush27.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Cylinder Brush28.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush219.
+[2021.03.28-16.58.44:926][557]LogEditorActor: Actor GroupActor3 is referenced by Box Brush220.
+[2021.03.28-16.58.44:972][557]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.58.46:558][557]LogSlate: Window 'Message' being destroyed
+[2021.03.28-16.58.46:564][557]Message dialog closed, result: YesAll, title: Message, text: Actor GroupActor3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Cylinder Brush25
+Box Brush206
+Box Brush207
+Linear Stair Brush3
+Cylinder Brush26
+Box Brush208
+Box Brush209
+Box Brush210
+Box Brush211
+Box Brush212
+Box Brush213
+Box Brush214
+Box Brush215
+Box Brush216
+Box Brush217
+Box Brush218
+Cylinder Brush27
+Cylinder Brush28
+Box Brush219
+Box Brush220
+[2021.03.28-16.58.46:565][557]LogEditorActor: Deleted Actor: GroupActor
+[2021.03.28-16.58.46:572][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.28-16.58.46:775][557]LogEditorActor: Deleted 21 Actors (0.276 secs)
+[2021.03.28-16.58.56:800][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.58.59:952][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.01:123][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.01:914][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.02:497][236]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.03:065][301]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.03:573][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.05:058][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.05:588][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.06:332][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.07:069][755]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.08:522][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.09:187][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.09:765][ 61]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.10:544][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.11:119][215]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.11:664][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.28:720][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-16.59.32:107][210]Cmd: TRANSACTION UNDO
+[2021.03.28-16.59.32:107][210]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.28-16.59.32:154][210]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-16.59.32:160][210]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-16.59.32:165][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-16.59.32:165][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-16.59.32:168][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.59.32:786][230]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-16.59.32:879][241]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-16.59.33:172][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-16.59.33:414][301]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-16.59.33:779][343]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-16.59.33:786][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-16.59.34:335][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.03.28-16.59.34:406][388]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.28-16.59.34:725][406]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.03.28-16.59.34:933][407]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.59.34:933][407]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.59.34:933][407]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.59.34:933][407]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-16.59.34:953][408]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.03.28-16.59.35:162][432]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.03.28-16.59.35:315][450]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.03.28-16.59.35:701][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.03.28-16.59.35:868][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.03.28-16.59.36:038][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.03.28-16.59.36:402][577]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.03.28-16.59.36:687][595]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.59.36:687][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.59.36:687][595]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.59.36:687][595]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-16.59.37:730][661]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.28-16.59.42:917][222]Cmd: TRANSACTION UNDO
+[2021.03.28-16.59.42:917][222]LogEditorTransaction: Undo Move Actors
+[2021.03.28-16.59.43:163][222]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-16.59.43:169][222]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-16.59.43:174][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-16.59.43:174][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-16.59.43:176][222]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-16.59.43:590][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-16.59.43:662][255]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-16.59.43:931][287]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-16.59.44:174][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-16.59.44:512][355]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-16.59.44:526][356]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-16.59.45:032][408]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-16.59.45:039][409]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-16.59.45:433][440]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-16.59.45:435][440]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.59.45:435][440]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.59.45:435][440]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.59.45:435][440]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-16.59.45:695][456]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-16.59.46:060][479]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-16.59.46:136][484]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-16.59.46:618][498]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-16.59.46:695][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-16.59.46:938][536]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-16.59.47:262][575]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-16.59.47:592][614]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-16.59.47:592][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-16.59.47:592][614]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-16.59.47:592][614]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.00.10:925][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.01.12:750][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.01.40:643][830]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-17.01.40:653][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.28-17.01.40:653][830]PIE: New page: PIE session: TheRivenTower_Map (Mar 28, 2021, 9:01:40 PM)
+[2021.03.28-17.01.40:678][830]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-17.01.40:766][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087043s)
+[2021.03.28-17.01.40:767][830]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.28-17.01.40:767][830]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2021.03.28-17.01.40:767][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TheRivenTower_Map.TheRivenTower_Map to /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map (0.088578s)
+[2021.03.28-17.01.40:785][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.28-17.01.40:787][830]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-17.01.40:787][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-17.01.40:787][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-17.01.40:788][830]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-17.01.40:788][830]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-17.01.40:794][830]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-17.01.40:794][830]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-17.01.40:802][830]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (Razer Audio Controller - Chat)
+[2021.03.28-17.01.40:802][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-17.01.40:802][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-17.01.40:802][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-17.01.40:803][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-17.01.40:803][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-17.01.40:803][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-17.01.40:815][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-17.01.40:815][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-17.01.40:815][830]LogInit: FAudioDevice initialized.
+[2021.03.28-17.01.40:815][830]LogAudio: Display: Audio Device (ID: 3) registered with world 'TheRivenTower_Map'.
+[2021.03.28-17.01.40:824][830]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.28-17.01.40:830][830]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TheRivenTower_Map.TheRivenTower_Map up for play (max tick rate 0) at 2021.03.28-19.01.40
+[2021.03.28-17.01.40:830][830]LogWorld: Bringing up level for play took: 0.004846
+[2021.03.28-17.01.40:830][830]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.28-17.01.40:833][830]PIE: Server logged in
+[2021.03.28-17.01.40:834][830]PIE: Play in editor total start time 0.182 seconds.
+[2021.03.28-17.02.20:669][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-17.02.20:669][515]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TheRivenTower_Map
+[2021.03.28-17.02.20:669][515]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-17.02.20:670][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-17.02.20:678][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-17.02.20:694][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-17.02.20:704][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.28-17.02.20:705][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-17.02.20:706][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-17.02.20:720][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-17.02.20:723][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.28-17.02.20:757][516]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.28-17.02.26:944][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.02.27:817][267]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush242)
+[2021.03.28-17.02.29:439][439]Cmd: EDCALLBACK SURFPROPS
+[2021.03.28-17.02.33:026][793]Cmd: TRANSACTION UNDO
+[2021.03.28-17.02.33:026][793]LogEditorTransaction: Undo Move Actors
+[2021.03.28-17.02.33:280][793]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.02.33:286][793]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.02.33:290][793]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-17.02.33:290][793]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-17.02.33:293][793]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.02.33:898][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-17.02.34:057][855]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-17.02.34:365][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-17.02.34:705][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-17.02.34:941][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-17.02.35:013][958]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-17.02.35:466][  7]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-17.02.35:529][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-17.02.35:789][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-17.02.35:810][ 43]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.02.35:810][ 43]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.02.35:810][ 43]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.02.35:810][ 43]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.02.36:035][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-17.02.36:215][ 87]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-17.02.36:352][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-17.02.36:763][148]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-17.02.36:916][165]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-17.02.37:059][181]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-17.02.37:408][216]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-17.02.37:751][253]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.02.37:751][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.02.37:751][253]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.02.37:751][253]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.02.43:976][962]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush242)
+[2021.03.28-17.02.47:548][364]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.02.50:564][630]LogGeometryMode: Warning: Unable to find CylinderBrush29 Brush(s) in new BSP
+[2021.03.28-17.02.50:564][630]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.28-17.02.50:815][643]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush242)
+[2021.03.28-17.02.51:550][692]Cmd: EDCALLBACK SURFPROPS
+[2021.03.28-17.02.53:106][825]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush242)
+[2021.03.28-17.02.56:529][ 34]LogGeometryMode: Warning: Unable to find CylinderBrush29 Brush(s) in new BSP
+[2021.03.28-17.02.56:529][ 34]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.03.28-17.02.57:964][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.02:710][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.08:130][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.25:969][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.27:083][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.27:704][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.27:926][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.28:427][162]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.28:491][168]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2021.03.28-17.03.29:189][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.31:715][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.31:835][543]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.32:455][607]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.32:594][616]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2021.03.28-17.03.33:190][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.33:705][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.33:788][746]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.34:265][800]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.34:353][809]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2021.03.28-17.03.34:824][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.34:897][869]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.28-17.03.38:488][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.03.38:940][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.40:757][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.03.51:887][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.04.05:264][292]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.04.06:167][360]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.03.28-17.04.52:912][127]Cmd: TRANSACTION UNDO
+[2021.03.28-17.04.52:912][127]LogEditorTransaction: Undo Edit Step Width
+[2021.03.28-17.04.53:185][127]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.04.53:191][127]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.04.53:198][127]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.03.28-17.04.53:198][127]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.28-17.04.53:198][127]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.04.53:838][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-17.04.54:041][165]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-17.04.54:293][188]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-17.04.54:676][223]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-17.04.55:029][255]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-17.04.55:117][263]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-17.04.55:694][315]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-17.04.55:724][318]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-17.04.56:132][354]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-17.04.56:151][355]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.04.56:151][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.04.56:151][355]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.04.56:151][355]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.04.56:410][377]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-17.04.56:700][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-17.04.56:716][380]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-17.04.57:264][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-17.04.57:449][445]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-17.04.57:725][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-17.04.58:174][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-17.04.58:563][552]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.04.58:563][552]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.04.58:563][552]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.04.58:563][552]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.04.59:803][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.28-17.05.03:545][ 38]Cmd: TRANSACTION UNDO
+[2021.03.28-17.05.03:545][ 38]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.28-17.05.03:570][ 38]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.05.03:576][ 38]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.05.03:582][ 38]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.03.28-17.05.03:582][ 38]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.28-17.05.03:583][ 38]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.05.03:980][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-17.05.04:047][ 50]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-17.05.04:337][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-17.05.04:674][107]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-17.05.05:067][142]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-17.05.05:109][145]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-17.05.05:668][194]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.05.05:681][194]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-17.05.05:699][194]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-17.05.05:709][194]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.05.06:023][214]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-17.05.06:044][215]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.06:044][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.06:044][215]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.06:044][215]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.06:229][228]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-17.05.06:493][245]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-17.05.06:584][251]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-17.05.07:239][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-17.05.07:444][329]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-17.05.07:902][370]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-17.05.08:231][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-17.05.09:184][412]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.09:184][412]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.09:184][412]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.09:184][412]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.18:865][466]Cmd: TRANSACTION UNDO
+[2021.03.28-17.05.18:865][466]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.28-17.05.18:925][466]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.05.18:931][466]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.05.18:938][466]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.03.28-17.05.18:938][466]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.28-17.05.18:938][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.05.19:100][468]Cmd: TRANSACTION UNDO
+[2021.03.28-17.05.19:100][468]LogEditorTransaction: Undo Edit Step Height
+[2021.03.28-17.05.19:352][468]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.05.19:359][468]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.05.19:475][468]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.03.28-17.05.19:553][475]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.03.28-17.05.20:175][530]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.03.28-17.05.20:186][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.03.28-17.05.20:615][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.03.28-17.05.20:875][595]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.03.28-17.05.21:278][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-17.05.21:313][638]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-17.05.21:989][703]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.03.28-17.05.21:993][703]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.03.28-17.05.22:392][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.03.28-17.05.22:404][744]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.22:404][744]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.22:404][744]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.22:404][744]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.22:646][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.03.28-17.05.22:966][799]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.03.28-17.05.23:078][810]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.03.28-17.05.23:577][857]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.03.28-17.05.23:858][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.03.28-17.05.24:139][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.03.28-17.05.24:447][936]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.03.28-17.05.24:870][977]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.24:870][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.24:870][977]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.24:870][977]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.35:439][106]Cmd: TRANSACTION UNDO
+[2021.03.28-17.05.35:439][106]LogEditorTransaction: Undo Edit Inner Radius
+[2021.03.28-17.05.35:699][106]LogMaterial: Display: Missing cached shader map for material Reward, compiling. 
+[2021.03.28-17.05.35:705][106]LogMaterial: Display: Missing cached shader map for material NPC, compiling. 
+[2021.03.28-17.05.35:712][106]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.05.35:758][106]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.03.28-17.05.35:758][106]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.03.28-17.05.36:153][129]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.03.28-17.05.36:239][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.03.28-17.05.36:564][169]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.03.28-17.05.36:895][202]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.03.28-17.05.37:205][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.03.28-17.05.37:279][242]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.03.28-17.05.37:819][296]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.03.28-17.05.37:848][299]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.03.28-17.05.38:234][338]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.03.28-17.05.38:248][339]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.38:248][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.38:248][339]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.38:248][339]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.38:448][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.03.28-17.05.38:770][392]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.03.28-17.05.38:871][402]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.03.28-17.05.39:375][450]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.03.28-17.05.39:521][453]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.03.28-17.05.39:724][454]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.03.28-17.05.40:084][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.03.28-17.05.40:440][525]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.03.28-17.05.40:440][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.03.28-17.05.40:440][525]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.03.28-17.05.40:440][525]MaterialEditorStats: Texture samplers: 2/16
+[2021.03.28-17.05.43:375][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-17.06.37:662][492]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.06.46:630][519]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.28-17.06.46:678][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.03.28-17.06.47:020][519]LogSavePackage: Moving '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map_Auto1524CA5E9404C1A84C2DFC8A18542A892.tmp' to '../../../../../UNI/4t/LevelDesign/Unreal-Delivery1/TheRivenTower/Saved/Autosaves/Game/Levels/TheRivenTower_Map_Auto1.umap'
+[2021.03.28-17.06.47:025][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TheRivenTower_Map' took 0.362
+[2021.03.28-17.06.47:025][519]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.362
