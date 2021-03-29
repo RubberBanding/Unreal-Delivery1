@@ -804,3 +804,479 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.29-18.41.24:362][532]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.03.29-18.41.24:363][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.498ms to complete.
 [2021.03.29-18.41.24:363][532]LogFileHelpers: Loading map 'Environment' took 0.095
+[2021.03.29-18.47.19:595][578]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.29-18.47.19:606][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.29-18.47.19:606][578]PIE: New page: PIE session: Environment (Mar 29, 2021, 10:47:19 PM)
+[2021.03.29-18.47.19:607][578]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.29-18.47.19:608][578]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.29-18.47.19:608][578]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.47.19:833][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224777s)
+[2021.03.29-18.47.19:835][578]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-18.47.19:835][578]LogPlayLevel: PIE: World Init took: (0.001991s)
+[2021.03.29-18.47.19:835][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Environment.Environment to /Game/Levels/UEDPIE_0_Environment.Environment (0.227145s)
+[2021.03.29-18.47.19:841][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.29-18.47.19:843][578]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-18.47.19:843][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-18.47.19:843][578]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-18.47.19:843][578]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-18.47.19:846][578]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-18.47.19:846][578]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-18.47.19:853][578]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.29-18.47.19:854][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-18.47.19:854][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-18.47.19:854][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-18.47.19:854][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-18.47.19:854][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-18.47.19:854][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-18.47.19:866][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-18.47.19:866][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-18.47.19:866][578]LogInit: FAudioDevice initialized.
+[2021.03.29-18.47.19:866][578]LogAudio: Display: Audio Device (ID: 2) registered with world 'Environment'.
+[2021.03.29-18.47.19:876][578]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.29-18.47.19:886][578]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Environment.Environment up for play (max tick rate 0) at 2021.03.29-20.47.19
+[2021.03.29-18.47.19:886][578]LogWorld: Bringing up level for play took: 0.009606
+[2021.03.29-18.47.19:887][578]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.03.29-18.47.19:890][578]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.29-18.47.19:892][578]PIE: Server logged in
+[2021.03.29-18.47.19:893][578]PIE: Play in editor total start time 0.288 seconds.
+[2021.03.29-18.48.11:387][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.48.11:387][541]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.48.11:387][541]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.48.11:388][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.48.11:396][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.29-18.48.11:399][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.48.11:402][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-18.48.11:405][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.48.11:406][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.48.11:418][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.48.11:424][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.03.29-18.48.11:474][543]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.03.29-18.48.27:515][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.29-18.48.27:524][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.29-18.48.27:524][ 68]PIE: New page: PIE session: Environment (Mar 29, 2021, 10:48:27 PM)
+[2021.03.29-18.48.27:545][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.48.27:766][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221213s)
+[2021.03.29-18.48.27:767][ 68]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-18.48.27:768][ 68]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2021.03.29-18.48.27:768][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Environment.Environment to /Game/Levels/UEDPIE_0_Environment.Environment (0.222860s)
+[2021.03.29-18.48.27:772][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.29-18.48.27:773][ 68]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-18.48.27:773][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-18.48.27:773][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-18.48.27:773][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-18.48.27:775][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-18.48.27:775][ 68]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-18.48.27:783][ 68]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.29-18.48.27:783][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-18.48.27:783][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-18.48.27:783][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-18.48.27:784][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-18.48.27:784][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-18.48.27:784][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-18.48.27:796][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-18.48.27:796][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-18.48.27:796][ 68]LogInit: FAudioDevice initialized.
+[2021.03.29-18.48.27:796][ 68]LogAudio: Display: Audio Device (ID: 3) registered with world 'Environment'.
+[2021.03.29-18.48.27:802][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.29-18.48.27:810][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Environment.Environment up for play (max tick rate 0) at 2021.03.29-20.48.27
+[2021.03.29-18.48.27:811][ 68]LogWorld: Bringing up level for play took: 0.008531
+[2021.03.29-18.48.27:811][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.29-18.48.27:815][ 68]PIE: Server logged in
+[2021.03.29-18.48.27:816][ 68]PIE: Play in editor total start time 0.292 seconds.
+[2021.03.29-18.48.39:296][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.48.39:296][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.48.39:297][312]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.48.39:298][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.48.39:307][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.29-18.48.39:310][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.48.39:316][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.48.39:318][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.48.39:319][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.48.39:338][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.29-18.48.39:364][313]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.29-18.48.53:347][551]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.29-18.48.53:363][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.29-18.48.53:363][551]PIE: New page: PIE session: Environment (Mar 29, 2021, 10:48:53 PM)
+[2021.03.29-18.48.53:363][551]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.48.53:583][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219395s)
+[2021.03.29-18.48.53:584][551]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-18.48.53:584][551]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2021.03.29-18.48.53:584][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Environment.Environment to /Game/Levels/UEDPIE_0_Environment.Environment (0.220883s)
+[2021.03.29-18.48.53:589][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.29-18.48.53:590][551]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-18.48.53:590][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-18.48.53:590][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-18.48.53:591][551]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-18.48.53:591][551]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-18.48.53:593][551]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-18.48.53:593][551]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-18.48.53:601][551]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.29-18.48.53:601][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-18.48.53:601][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-18.48.53:601][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-18.48.53:602][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-18.48.53:602][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-18.48.53:602][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-18.48.53:612][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-18.48.53:612][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-18.48.53:612][551]LogInit: FAudioDevice initialized.
+[2021.03.29-18.48.53:612][551]LogAudio: Display: Audio Device (ID: 4) registered with world 'Environment'.
+[2021.03.29-18.48.53:617][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.29-18.48.53:628][551]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Environment.Environment up for play (max tick rate 0) at 2021.03.29-20.48.53
+[2021.03.29-18.48.53:629][551]LogWorld: Bringing up level for play took: 0.011312
+[2021.03.29-18.48.53:629][551]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.29-18.48.53:632][551]PIE: Server logged in
+[2021.03.29-18.48.53:633][551]PIE: Play in editor total start time 0.271 seconds.
+[2021.03.29-18.49.34:826][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.49.34:826][145]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Environment
+[2021.03.29-18.49.34:827][145]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.49.34:828][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.49.34:840][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.29-18.49.34:843][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.49.34:849][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-18.49.34:850][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.49.34:851][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-18.49.34:869][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.29-18.49.34:930][147]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.29-18.49.40:070][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.29-18.49.40:661][606]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment26A90EA94AF18D2214451480DE5CA201.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-18.49.40:687][606]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-18.49.40:687][606]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-18.49.51:136][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.29-18.49.51:718][649]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/EnvironmentC39BF9C54F22209AA413868CD237DD5F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-18.49.51:743][649]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-18.49.51:743][649]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-18.51.06:628][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.03.29-18.51.06:957][822]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-18.51.06:957][822]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-18.51.06:957][822]LightingResults: New page: Lighting Build
+[2021.03.29-18.51.06:957][822]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
+[2021.03.29-18.51.06:960][822]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.51.06:960][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.51.06:961][822]MapCheck: New page: Map Check
+[2021.03.29-18.51.06:961][822]LightingResults: New page: Lighting Build
+[2021.03.29-18.51.06:966][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-18.51.06:974][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.29-18.51.06:976][822]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
+[2021.03.29-18.51.06:991][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-18.51.06:991][822]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.29-18.51.07:002][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.29-18.51.07:018][822]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-18.51.07:018][822]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2021.03.29-18.51.07:018][822]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.061
+[2021.03.29-18.51.21:273][251]Cmd: TRANSACTION UNDO
+[2021.03.29-18.51.21:273][251]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.51.24:333][488]Cmd: TRANSACTION UNDO
+[2021.03.29-18.51.24:333][488]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.51.54:143][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.29-18.51.54:959][330]Cmd: DELETE
+[2021.03.29-18.51.54:959][330]Cmd: ACTOR DELETE
+[2021.03.29-18.51.55:007][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.29-18.51.55:011][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.29-18.51.55:013][330]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.03.29-18.51.56:596][478]Cmd: DELETE
+[2021.03.29-18.51.56:597][478]Cmd: ACTOR DELETE
+[2021.03.29-18.51.56:665][478]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.51.56:669][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.29-18.51.57:035][478]LogEditorActor: Deleted 1 Actors (0.438 secs)
+[2021.03.29-18.51.57:838][531]Cmd: DELETE
+[2021.03.29-18.51.57:838][531]Cmd: ACTOR DELETE
+[2021.03.29-18.51.57:905][531]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.51.57:911][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.29-18.51.58:273][531]LogEditorActor: Deleted 1 Actors (0.435 secs)
+[2021.03.29-18.51.58:967][575]Cmd: DELETE
+[2021.03.29-18.51.58:967][575]Cmd: ACTOR DELETE
+[2021.03.29-18.51.59:039][575]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.51.59:045][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.29-18.51.59:402][575]LogEditorActor: Deleted 1 Actors (0.435 secs)
+[2021.03.29-18.52.00:157][622]Cmd: DELETE
+[2021.03.29-18.52.00:157][622]Cmd: ACTOR DELETE
+[2021.03.29-18.52.00:226][622]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.52.00:235][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.29-18.52.00:589][622]LogEditorActor: Deleted 1 Actors (0.432 secs)
+[2021.03.29-18.52.06:855][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh2)
+[2021.03.29-18.52.08:532][387]Cmd: DELETE
+[2021.03.29-18.52.08:532][387]Cmd: ACTOR DELETE
+[2021.03.29-18.52.08:598][387]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.52.08:607][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.29-18.52.08:967][387]LogEditorActor: Deleted 1 Actors (0.436 secs)
+[2021.03.29-18.52.14:471][914]Cmd: DELETE
+[2021.03.29-18.52.14:471][914]Cmd: ACTOR DELETE
+[2021.03.29-18.52.14:539][914]LogEditorActor: Deleted Actor: Brush
+[2021.03.29-18.52.14:548][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.29-18.52.14:910][914]LogEditorActor: Deleted 1 Actors (0.439 secs)
+[2021.03.29-18.52.52:013][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh2)
+[2021.03.29-18.53.03:156][150]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.03:156][150]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.53.16:156][981]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.16:156][981]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.53.21:298][317]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.21:298][317]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.53.23:836][474]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.23:836][474]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.53.25:476][613]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.25:476][613]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.53.27:911][784]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.27:911][784]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.29-18.53.33:986][179]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.33:986][179]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.53.42:370][823]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2021.03.29-18.53.43:783][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2021.03.29-18.53.44:562][ 48]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2021.03.29-18.53.45:451][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2021.03.29-18.53.46:479][245]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2021.03.29-18.53.47:111][309]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2021.03.29-18.53.48:558][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2021.03.29-18.53.51:861][799]Cmd: TRANSACTION UNDO
+[2021.03.29-18.53.51:861][799]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.29-18.53.53:259][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2021.03.29-18.53.54:633][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2021.03.29-18.53.55:881][136]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2021.03.29-18.53.58:152][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2021.03.29-18.54.01:516][688]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2021.03.29-18.54.04:185][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2021.03.29-18.54.04:913][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2021.03.29-18.54.05:972][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2021.03.29-18.54.11:459][678]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube42)
+[2021.03.29-18.54.12:057][731]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube44)
+[2021.03.29-18.54.12:643][788]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2021.03.29-18.54.13:135][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2021.03.29-18.54.13:932][912]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2021.03.29-18.54.14:669][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2021.03.29-18.54.15:467][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube38)
+[2021.03.29-18.54.16:407][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2021.03.29-18.54.17:767][290]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube37)
+[2021.03.29-18.54.32:586][497]Cmd: TRANSACTION UNDO
+[2021.03.29-18.54.32:586][497]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.54.41:902][191]Cmd: TRANSACTION UNDO
+[2021.03.29-18.54.41:902][191]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.54.43:127][259]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube24)
+[2021.03.29-18.54.43:991][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube22)
+[2021.03.29-18.54.44:617][396]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2021.03.29-18.54.45:634][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2021.03.29-18.54.46:180][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2021.03.29-18.54.46:864][607]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2021.03.29-18.54.48:131][732]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube21)
+[2021.03.29-18.54.48:988][814]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2021.03.29-18.54.58:697][591]Cmd: TRANSACTION UNDO
+[2021.03.29-18.54.58:697][591]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.55.05:569][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2021.03.29-18.55.06:116][204]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2021.03.29-18.55.06:783][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2021.03.29-18.55.07:294][307]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2021.03.29-18.55.14:404][829]Cmd: TRANSACTION UNDO
+[2021.03.29-18.55.14:404][829]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.55.21:685][402]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2021.03.29-18.55.22:266][451]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube35)
+[2021.03.29-18.55.23:409][551]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube36)
+[2021.03.29-18.55.27:347][760]Cmd: TRANSACTION UNDO
+[2021.03.29-18.55.27:347][760]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.55.34:293][222]Cmd: TRANSACTION UNDO
+[2021.03.29-18.55.34:293][222]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.55.53:124][824]Cmd: TRANSACTION UNDO
+[2021.03.29-18.55.53:124][824]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.56.01:689][509]Cmd: TRANSACTION UNDO
+[2021.03.29-18.56.01:690][509]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.56.05:280][720]Cmd: TRANSACTION UNDO
+[2021.03.29-18.56.05:280][720]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.56.24:529][408]Cmd: TRANSACTION UNDO
+[2021.03.29-18.56.24:529][408]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.56.26:614][548]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2021.03.29-18.56.41:403][759]Cmd: TRANSACTION UNDO
+[2021.03.29-18.56.41:403][759]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.57.11:909][711]Cmd: TRANSACTION UNDO
+[2021.03.29-18.57.11:909][711]LogEditorTransaction: Undo Move Actors
+[2021.03.29-18.57.32:914][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh3)
+[2021.03.29-18.57.34:771][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.29-18.57.35:242][621]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapA831BF0F4283788DFC9B7C9660192B05.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.29-18.57.35:268][621]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.29-18.57.35:268][621]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-18.57.38:623][905]Cmd: EDIT COPY
+[2021.03.29-18.57.40:406][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.03.29-18.57.40:687][ 47]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Environment.Environment
+[2021.03.29-18.57.40:687][ 47]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-18.57.40:687][ 47]LightingResults: New page: Lighting Build
+[2021.03.29-18.57.40:687][ 47]LoadErrors: New page: Loading map: Environment.umap
+[2021.03.29-18.57.40:755][ 47]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.57.40:756][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.57.40:756][ 47]MapCheck: New page: Map Check
+[2021.03.29-18.57.40:756][ 47]LightingResults: New page: Lighting Build
+[2021.03.29-18.57.40:764][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-18.57.40:768][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.03.29-18.57.40:769][ 47]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment'.
+[2021.03.29-18.57.40:789][ 47]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-18.57.40:789][ 47]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-18.57.40:800][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.29-18.57.40:816][ 47]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-18.57.40:816][ 47]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.286ms to complete.
+[2021.03.29-18.57.40:816][ 47]LogFileHelpers: Loading map 'Environment' took 0.128
+[2021.03.29-18.57.44:866][379]Cmd: EDIT PASTE
+[2021.03.29-18.57.48:982][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.03.29-18.58.14:450][821]Cmd: PIVOT CENTERSELECTION
+[2021.03.29-18.58.24:375][158]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush647)
+[2021.03.29-18.58.38:680][ 49]Cmd: ACTOR BAKEPREPIVOT
+[2021.03.29-18.58.48:400][608]Cmd: PIVOT CENTERSELECTION
+[2021.03.29-18.59.42:807][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.29-18.59.43:632][157]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment1E6653294E7FA1FD8A59348C719E7F3D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-18.59.43:709][157]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-18.59.43:709][157]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-18.59.45:410][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.29-18.59.45:596][260]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-18.59.45:596][260]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-18.59.45:596][260]LightingResults: New page: Lighting Build
+[2021.03.29-18.59.45:596][260]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
+[2021.03.29-18.59.45:627][260]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.59.45:628][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.59.45:628][260]MapCheck: New page: Map Check
+[2021.03.29-18.59.45:628][260]LightingResults: New page: Lighting Build
+[2021.03.29-18.59.45:638][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-18.59.45:647][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.03.29-18.59.45:665][260]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
+[2021.03.29-18.59.45:687][260]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-18.59.45:687][260]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.29-18.59.45:698][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.29-18.59.45:712][260]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-18.59.45:712][260]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.227ms to complete.
+[2021.03.29-18.59.45:712][260]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.116
+[2021.03.29-18.59.59:470][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.03.29-18.59.59:821][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Environment.Environment
+[2021.03.29-18.59.59:821][680]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-18.59.59:821][680]LightingResults: New page: Lighting Build
+[2021.03.29-18.59.59:821][680]LoadErrors: New page: Loading map: Environment.umap
+[2021.03.29-18.59.59:854][680]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-18.59.59:855][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-18.59.59:855][680]MapCheck: New page: Map Check
+[2021.03.29-18.59.59:855][680]LightingResults: New page: Lighting Build
+[2021.03.29-18.59.59:866][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-18.59.59:872][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.03.29-18.59.59:872][680]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment'.
+[2021.03.29-18.59.59:903][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-18.59.59:903][680]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-18.59.59:917][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.29-18.59.59:931][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-18.59.59:932][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.302ms to complete.
+[2021.03.29-18.59.59:932][680]LogFileHelpers: Loading map 'Environment' took 0.110
+[2021.03.29-19.00.04:193][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.29-19.00.05:009][999]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/EnvironmentBE86ADDE42F05BCDB63D4690EB61C299.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.00.05:042][999]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.00.05:042][999]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.00.05:736][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.29-19.00.05:911][ 61]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-19.00.05:911][ 61]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-19.00.05:911][ 61]LightingResults: New page: Lighting Build
+[2021.03.29-19.00.05:912][ 61]LoadErrors: New page: Loading map: TheRivenTower_Map.umap
+[2021.03.29-19.00.05:914][ 61]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-19.00.05:914][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-19.00.05:915][ 61]MapCheck: New page: Map Check
+[2021.03.29-19.00.05:915][ 61]LightingResults: New page: Lighting Build
+[2021.03.29-19.00.05:925][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-19.00.05:939][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.03.29-19.00.05:940][ 61]LogAudio: Display: Audio Device (ID: 1) registered with world 'TheRivenTower_Map'.
+[2021.03.29-19.00.06:008][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-19.00.06:009][ 61]LogAIModule: Creating AISystem for world TheRivenTower_Map
+[2021.03.29-19.00.06:020][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.29-19.00.06:037][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-19.00.06:037][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2021.03.29-19.00.06:037][ 61]LogFileHelpers: Loading map 'TheRivenTower_Map' took 0.126
+[2021.03.29-19.00.11:026][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.29-19.00.11:486][569]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_MapF92D849E4AECC8CB28916A9C85895253.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.29-19.00.11:510][569]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.29-19.00.11:510][569]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-19.00.14:593][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.29-19.00.15:053][885]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/TheRivenTower_Map6545AA194A42EB2544E4E0B2F053772C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/TheRivenTower_Map.umap'
+[2021.03.29-19.00.15:077][885]AssetCheck: New page: Asset Save: TheRivenTower_Map
+[2021.03.29-19.00.15:077][885]LogContentValidation: Display: Validating World /Game/Levels/TheRivenTower_Map.TheRivenTower_Map
+[2021.03.29-19.00.16:249][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.29-19.00.16:597][  1]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Environment.Environment
+[2021.03.29-19.00.16:597][  1]Cmd: MAP LOAD FILE="../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-19.00.16:597][  1]LightingResults: New page: Lighting Build
+[2021.03.29-19.00.16:597][  1]LoadErrors: New page: Loading map: Environment.umap
+[2021.03.29-19.00.16:600][  1]LogWorld: UWorld::CleanupWorld for TheRivenTower_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-19.00.16:600][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-19.00.16:601][  1]MapCheck: New page: Map Check
+[2021.03.29-19.00.16:601][  1]LightingResults: New page: Lighting Build
+[2021.03.29-19.00.16:610][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-19.00.16:615][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.03.29-19.00.16:616][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment'.
+[2021.03.29-19.00.16:647][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-19.00.16:647][  1]LogAIModule: Creating AISystem for world Environment
+[2021.03.29-19.00.16:660][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.29-19.00.16:677][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-19.00.16:677][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2021.03.29-19.00.16:677][  1]LogFileHelpers: Loading map 'Environment' took 0.080
+[2021.03.29-19.00.29:647][678]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.29:647][678]LogEditorTransaction: Undo Move Actors
+[2021.03.29-19.00.32:525][770]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush469)
+[2021.03.29-19.00.41:064][122]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.41:064][122]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.29-19.00.42:155][155]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.42:155][155]LogEditorTransaction: Undo Select Surfaces
+[2021.03.29-19.00.45:096][287]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.45:096][287]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.29-19.00.45:869][304]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.45:870][304]LogEditorTransaction: Undo Select Surfaces
+[2021.03.29-19.00.54:959][864]Cmd: TRANSACTION UNDO
+[2021.03.29-19.00.54:959][864]LogEditorTransaction: Undo Select Brush Surface
+[2021.03.29-19.01.21:234][317]Cmd: TRANSACTION UNDO
+[2021.03.29-19.01.21:234][317]LogEditorTransaction: Undo Move Actors
+[2021.03.29-19.01.40:527][404]Cmd: PIVOT SNAPPED
+[2021.03.29-19.02.25:651][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.03.29-19.02.26:474][244]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment2AB7E6514ED15F7473CB6980D554B7A4.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.02.26:535][244]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.02.26:535][244]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.02.48:362][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grassy_mountains)
+[2021.03.29-19.03.06:987][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.29-19.03.07:816][  1]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment950DB0BA4D22751F83A89E9AEB33A3AA.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.03.07:855][  1]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.03.07:855][  1]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.03.17:983][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.29-19.03.18:811][788]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment7B48332C43F90493726D5F8FA2B3881F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.03.18:863][788]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.03.18:863][788]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.03.28:393][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.29-19.03.29:227][519]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment37189E0648FF36973BA7EF9B614FFA65.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.03.29:257][519]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.03.29:257][519]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.04.04:828][613]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.29-19.04.39:057][646]Cmd: TRANSACTION UNDO
+[2021.03.29-19.04.39:057][646]LogEditorTransaction: Undo Move Actors
+[2021.03.29-19.04.41:104][717]Cmd: TRANSACTION UNDO
+[2021.03.29-19.04.41:104][717]LogEditorTransaction: Undo Move Actors
+[2021.03.29-19.05.35:307][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.03.29-19.05.36:126][376]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/EnvironmentC824BCEB4321C8A8B2A1DD9ED4919D84.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.05.36:190][376]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.05.36:190][376]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.05.45:032][788]Cmd: POLY SELECT ALL
+[2021.03.29-19.05.47:716][855]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.03.29-19.05.52:830][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.03.29-19.05.53:653][993]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment09AC726040F9DEF7C2F69AB5274E0C67.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.05.53:705][993]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.05.53:705][993]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.06.10:722][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.29-19.06.11:548][448]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment43F165D94FC3C19B3D0D4E9C7C32360F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.06.11:592][448]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.06.11:592][448]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
+[2021.03.29-19.06.16:988][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.29-19.06.17:808][740]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Saved/EnvironmentAC99B62E42D2E14C7DE5CDBBFF0C90D6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.29-19.06.17:838][740]AssetCheck: New page: Asset Save: Environment
+[2021.03.29-19.06.17:838][740]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
