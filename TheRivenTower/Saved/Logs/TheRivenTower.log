@@ -1000,3 +1000,15 @@ Starter
 [2021.03.30-14.55.50:921][733]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2021.03.30-14.58.19:573][976]BlueprintLog: New page: Compile ThirdPersonCharacter
 [2021.03.30-14.58.19:644][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.30-15.00.29:092][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.03.30-15.00.31:362][ 64]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment_Auto271BB9B974E955A5AC3EEC2A53DADE422.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Autosaves/Game/Levels/Environment_Auto2.umap'
+[2021.03.30-15.00.31:370][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Environment' took 2.315
+[2021.03.30-15.00.31:370][ 64]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.315
+[2021.03.30-15.00.48:664][647]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/ThirdPersonCharacterFBC00EEE41CB833431A3AEAF65F6CBE4.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.30-15.00.48:681][647]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.30-15.00.48:681][647]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.30-15.00.49:818][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.30-15.00.51:122][767]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Saved/Environment82CCBD904587B89ABF52FB82D927B3AB.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery1/TheRivenTower/Content/Levels/Environment.umap'
+[2021.03.30-15.00.51:147][767]LogFileHelpers: Saving map 'Environment' took 1.357
+[2021.03.30-15.00.51:166][767]AssetCheck: New page: Asset Save: Environment
+[2021.03.30-15.00.51:166][767]LogContentValidation: Display: Validating World /Game/Levels/Environment.Environment
